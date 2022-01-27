@@ -1,0 +1,3 @@
+D:/LearnDirectX/d3d12book-master/Chapter 1 Vector Algebra/cmake-build-debug/CMakeFiles/Chapter_1_Vector_Algebra.dir
+D:/LearnDirectX/d3d12book-master/Chapter 1 Vector Algebra/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/LearnDirectX/d3d12book-master/Chapter 1 Vector Algebra/cmake-build-debug/CMakeFiles/rebuild_cache.dir
