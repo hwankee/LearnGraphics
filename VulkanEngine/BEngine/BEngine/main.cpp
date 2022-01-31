@@ -6,7 +6,7 @@
 #include <stdexcept>
 
 int main() {
-    lve::FirstApp app{};
+    carrot::FirstApp app{};
 
     try {
         app.run();
