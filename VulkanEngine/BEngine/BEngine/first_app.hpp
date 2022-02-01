@@ -4,6 +4,7 @@
 #include "carrot_pipeline.hpp"
 #include "carrot_device.hpp"
 #include "carrot_swap_chain.hpp"
+#include "carrot_model.hpp"
 
 // std
 #include <memory>
@@ -16,22 +17,18 @@ namespace carrot {
         static constexpr int HEIGHT = 600;
 
         FirstApp();
-
         ~FirstApp();
 
         FirstApp(const FirstApp &) = delete;
-
         FirstApp &operator=(const FirstApp &) = delete;
 
         void run();
 
     private:
+        void loadModels();
         void createPipelineLayout();
-
         void createPipeline();
-
         void createCommandBuffers();
-
         void drawFrame();
 
         CarrotWindow carrotWindow{WIDTH, HEIGHT, "Hello World!"};
@@ -40,6 +37,7 @@ namespace carrot {
         std::unique_ptr<CarrotPipeline> carrotPipeline;
         VkPipelineLayout pipelineLayout;
         std::vector<VkCommandBuffer> commandBuffers;
+        std::unique_ptr<CarrotModel> carrotModel;
 
 //        CarrotPipeline carrotPipeline{
 //                carrotDevice,

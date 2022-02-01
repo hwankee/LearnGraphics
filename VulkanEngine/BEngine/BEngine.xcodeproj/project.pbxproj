@@ -19,6 +19,7 @@
 		B832A44A9016DA92231895E5 /* carrot_swap_chain.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B832A025121738C6FE37F18F /* carrot_swap_chain.cpp */; };
 		B832A5235A87F34930EE7119 /* first_app.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B832ACCE18A367E52F0A3041 /* first_app.cpp */; };
 		B832AA77EDB43917EAFD0287 /* carrot_window.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B832AB75DB3CF1D45F490BEC /* carrot_window.cpp */; };
+		B832ABF361ACE244ADD2A17D /* carrot_model.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B832A09B5D024E2FC60DC1D2 /* carrot_model.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -47,8 +48,10 @@
 		33223CFC27A7883C006A6C14 /* libglfw.3.4.dylib */ = {isa = PBXFileReference; lastKnownFileType = "compiled.mach-o.dylib"; name = libglfw.3.4.dylib; path = "../../../../../usr/local/Cellar/glfw/HEAD-df8d7bc/lib/libglfw.3.4.dylib"; sourceTree = "<group>"; };
 		33223CFE27A789FF006A6C14 /* BEngine.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = BEngine.entitlements; sourceTree = "<group>"; };
 		B832A025121738C6FE37F18F /* carrot_swap_chain.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = carrot_swap_chain.cpp; sourceTree = "<group>"; };
+		B832A09B5D024E2FC60DC1D2 /* carrot_model.cpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.cpp; path = carrot_model.cpp; sourceTree = "<group>"; };
 		B832A0E155EFA82D12FE681C /* carrot_window.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = carrot_window.hpp; sourceTree = "<group>"; };
 		B832A19AA4A20A225D997310 /* carrot_pipeline.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = carrot_pipeline.hpp; sourceTree = "<group>"; };
+		B832A3670A23FDF541721330 /* carrot_model.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = carrot_model.hpp; sourceTree = "<group>"; };
 		B832A5359CD0CC294247DB34 /* carrot_swap_chain.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = carrot_swap_chain.hpp; sourceTree = "<group>"; };
 		B832A6EEB87A6062A1FE8051 /* first_app.hpp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.cpp.h; path = first_app.hpp; sourceTree = "<group>"; };
 		B832A7D26A679F983A380C5E /* simple_shader.frag */ = {isa = PBXFileReference; lastKnownFileType = file.glsl; path = simple_shader.frag; sourceTree = "<group>"; };
@@ -112,6 +115,8 @@
 				B832ABAABB3221C88DD8D40A /* carrot_device.hpp */,
 				B832A5359CD0CC294247DB34 /* carrot_swap_chain.hpp */,
 				B832A025121738C6FE37F18F /* carrot_swap_chain.cpp */,
+				B832A09B5D024E2FC60DC1D2 /* carrot_model.cpp */,
+				B832A3670A23FDF541721330 /* carrot_model.hpp */,
 			);
 			path = BEngine;
 			sourceTree = "<group>";
@@ -198,6 +203,7 @@
 				B832A1FA5E1C09AF47C09703 /* carrot_pipeline.cpp in Sources */,
 				B832A3A4D0B174851DCA50F8 /* carrot_device.cpp in Sources */,
 				B832A44A9016DA92231895E5 /* carrot_swap_chain.cpp in Sources */,
+				B832ABF361ACE244ADD2A17D /* carrot_model.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

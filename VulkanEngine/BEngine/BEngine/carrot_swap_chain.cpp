@@ -10,7 +10,6 @@
 #include <stdexcept>
 
 namespace carrot {
-
     CarrotSwapChain::CarrotSwapChain(CarrotDevice &deviceRef, VkExtent2D extent)
             : device{deviceRef}, windowExtent{extent} {
         createSwapChain();
@@ -71,8 +70,7 @@ namespace carrot {
         return result;
     }
 
-    VkResult CarrotSwapChain::submitCommandBuffers(
-            const VkCommandBuffer *buffers, uint32_t *imageIndex) {
+    VkResult CarrotSwapChain::submitCommandBuffers(const VkCommandBuffer *buffers, uint32_t *imageIndex) {
         if (imagesInFlight[*imageIndex] != VK_NULL_HANDLE) {
             vkWaitForFences(device.device(), 1, &imagesInFlight[*imageIndex], VK_TRUE, UINT64_MAX);
         }
@@ -95,8 +93,7 @@ namespace carrot {
         submitInfo.pSignalSemaphores = signalSemaphores;
 
         vkResetFences(device.device(), 1, &inFlightFences[currentFrame]);
-        if (vkQueueSubmit(device.graphicsQueue(), 1, &submitInfo, inFlightFences[currentFrame]) !=
-                VK_SUCCESS) {
+        if (vkQueueSubmit(device.graphicsQueue(), 1, &submitInfo, inFlightFences[currentFrame]) != VK_SUCCESS) {
             throw std::runtime_error("failed to submit draw command buffer!");
         }
 

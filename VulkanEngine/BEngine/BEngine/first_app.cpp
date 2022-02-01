@@ -7,6 +7,7 @@
 namespace carrot {
 
     FirstApp::FirstApp() {
+        loadModels();
         createPipelineLayout();
         createPipeline();
         createCommandBuffers();
@@ -25,6 +26,12 @@ namespace carrot {
         vkDeviceWaitIdle(carrotDevice.device());
     }
 
+    void FirstApp::loadModels() {
+        std::vector<CarrotModel::Vertex> vertices{{{0.0f, -0.5f}}, {{0.5f, 0.5f}}, {{-0.5f, 0.5f}}};
+        carrotModel = std::make_unique<CarrotModel>(carrotDevice, vertices);
+    }
+
+
     void FirstApp::createPipelineLayout() {
         VkPipelineLayoutCreateInfo pipelineLayoutInfo{};
         pipelineLayoutInfo.sType = VK_STRUCTURE_TYPE_PIPELINE_LAYOUT_CREATE_INFO;
@@ -38,7 +45,11 @@ namespace carrot {
     }
 
     void FirstApp::createPipeline() {
-        auto pipelineConfig = CarrotPipeline::defaultPipelineConfigInfo(carrotSwapChain.width(), carrotSwapChain.height());
+        PipelineConfigInfo pipelineConfig{};
+        CarrotPipeline::defaultPipelineConfigInfo(
+                pipelineConfig,
+                carrotSwapChain.width(),
+                carrotSwapChain.height());
         pipelineConfig.renderPass = carrotSwapChain.getRenderPass();
         pipelineConfig.pipelineLayout = pipelineLayout;
         carrotPipeline = std::make_unique<CarrotPipeline>(
@@ -86,7 +97,8 @@ namespace carrot {
             vkCmdBeginRenderPass(commandBuffers[i], &renderPassInfo, VK_SUBPASS_CONTENTS_INLINE);
 
             carrotPipeline->bind(commandBuffers[i]);
-            vkCmdDraw(commandBuffers[i], 3, 1, 0, 0);
+            carrotModel->bind(commandBuffers[i]);
+            carrotModel->draw(commandBuffers[i]);
 
             vkCmdEndRenderPass(commandBuffers[i]);
             if (vkEndCommandBuffer(commandBuffers[i]) != VK_SUCCESS) {
@@ -98,7 +110,6 @@ namespace carrot {
     void FirstApp::drawFrame() {
         uint32_t imageIndex;
         auto result = carrotSwapChain.acquireNextImage(&imageIndex);
-
         if (result != VK_SUCCESS && result != VK_SUBOPTIMAL_KHR) {
             throw std::runtime_error("failed to acquire swap chain image!");
         }
