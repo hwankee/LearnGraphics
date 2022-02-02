@@ -1,16 +1,16 @@
-#BaseCode
-***
->- General structure
->- Resource managerment
->- Integrating GLFW
-
-원본: [Vulkan Tutotial Page](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Base_code, "vulkan link")
-###실행 화면
-![run](../Img/basecode0.png "baseCode")   
-***
+#BaseCode   
+***     
+>- General structure   
+>- Resource managerment   
+>- Integrating GLFW   
+    
+원본: [Vulkan Tutotial Page](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Base_code, "vulkan link")   
+###실행 화면   
+![run](../Img/basecode0.png "baseCode")     
+***   
 #General Structure    
->Vulkan 의 일반 구조
-```cpp
+>Vulkan 의 일반 구조   
+```cpp   
 #include <vulkan/vulkan.h>
 
 #include <iostream>
@@ -57,13 +57,20 @@ int main() {
 
 `malloc`-`free`는 우리가 할당한 모든 vulkan 오브젝트들은 우리가 더 이상 필요로 하지 않을 때, 확실하게 파괴할 수 있다.    
 c++에서는 자동 자원 관리를 [RAII](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization, "raii") 를 
-통해서 하거나 `<memory>`헤더에 있는 스마트 포인터를 사용하여 할 수 있다.   
-하지만 이 튜토리얼에서는 확실하게 파괴시키는 방식(malloc-free)을 선택하기로 했다.   
-어쨌든 위 방식은 실수를 피할 수 있고, 오브젝트의 생명 주기를 배우고, API가 어떻게 동작하는지 학습하기에 더 나을 것이다.
+통해서 하거나 `<memory>`헤더에 있는 스마트 포인터를 사용하여 할 수 있다.          
+하지만 이 튜토리얼에서는 확실하게 파괴시키는 방식(malloc-free)을 선택하기로 했다.         
+어쨌든 위 방식은 실수를 피할 수 있고, 오브젝트의 생명 주기를 배우고, API가 어떻게 동작하는지 학습하기에 더 나을 것이다.     
 
-이 튜토리얼을 수행한 후 우리는 Vulkan 오브젝트를 생성하는 생성자와 파괴자 부분에 해당 내용을 작성하여  자동 리소스 관리를 구현할 수 있다.   
-`std::unique_ptr` 또는 `std::shared_ptr` 
-// todo
+이 튜토리얼을 수행한 후 우리는 Vulkan 오브젝트를 생성하는 생성자와 파괴자 부분에 해당 내용을 작성하여 자동 리소스 관리를 구현할 수 있다.       
+아니면 필요에 따라 `std::unique_ptr` 또는 `std::shared_ptr`를 사용할 수도 있다.       
+RAII는 거대한 Vulkan 프로그램을 돌릴 때 추천되는데, 배우는 단계에서는 Scene이 어떻게 동작하는 지를 아는 것이 더 중요하다.           
+
+Vulkan 오브젝트는 `vKCreateXXX`와 같은 함수로 호출되거나, `vKAllocateXXX`와 같은 함수를 통해 다른 오브젝트를 할당할 수도 있다.        
+만든 오브젝트가 더 이상 필요하지 않을 때는 각각 생성 함수에 맞게 `vKDestroyXXX`나 `vKFreeXXX`를 사용하여 삭제하면 된다.    
+두 함수는 각기 다른 변수타입의 파라미터를 갖는데, 하나의 파라미터 즉, `pAllocator`는 두 함수 모두 포함된다. 이것은 선택적인 파라미터인데,
+커스텀 메모리의 할당의 명시적인 콜백을 할 수 있게 한다. 우리는 이 튜토리얼에서 해당 파라미터를 무시하고, `nullPtr`을 사용할 것이다.     
+
+
 
 
 #Integrating GLFW
@@ -96,7 +103,7 @@ private:
 ```
 ***
 `initWindow` 내에서 가장 먼저 호출될 것은 `glfwInit()`로, GLFW 라이브러리를 초기화하는 일을 한다.   
-하지만 본래 GLFW는 openGL용으로 디자인되었기 때문에, 우리는 openGL로 생성되지 않게 아래 함수를 사용해야 한다.   
+하지만 본래 GLFW는 openGL용으로 디자인되었기 때문에, 우리는 openGL로 생성되지 않게 아래 함수를 사용해야 한다.       
 ```c++
 glfwWindowHint(GLFW_CLIENT_API, GLFW_NO_API);
 ```
