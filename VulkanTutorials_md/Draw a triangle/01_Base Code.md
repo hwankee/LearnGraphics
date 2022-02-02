@@ -1,15 +1,15 @@
-#BaseCode   
+# BaseCode   
 ***     
 >- General structure   
 >- Resource managerment   
 >- Integrating GLFW   
     
-원본: [Vulkan Tutotial Page](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Base_code, "vulkan link")   
-###실행 화면   
+원본: [Vulkan Tutotial Page](https://vulkan-tutorial.com/Drawing_a_triangle/Setup/Base_code "vulkan link")   
+### 실행 화면   
 ![run](../Img/basecode0.png "baseCode")     
 ***   
-#General Structure    
->Vulkan 의 일반 구조   
+# General Structure    
+> Vulkan 의 일반 구조   
 ```cpp   
 #include <vulkan/vulkan.h>
 
@@ -52,11 +52,11 @@ int main() {
     return EXIT_SUCCESS;
 }
 ```
-#Resource Management
->자원 관리
+# Resource Management
+> 자원 관리
 
 `malloc`-`free`는 우리가 할당한 모든 vulkan 오브젝트들은 우리가 더 이상 필요로 하지 않을 때, 확실하게 파괴할 수 있다.    
-c++에서는 자동 자원 관리를 [RAII](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization, "raii") 를 
+c++에서는 자동 자원 관리를 [RAII](https://en.wikipedia.org/wiki/Resource_acquisition_is_initialization "raii") 를 
 통해서 하거나 `<memory>`헤더에 있는 스마트 포인터를 사용하여 할 수 있다.          
 하지만 이 튜토리얼에서는 확실하게 파괴시키는 방식(malloc-free)을 선택하기로 했다.         
 어쨌든 위 방식은 실수를 피할 수 있고, 오브젝트의 생명 주기를 배우고, API가 어떻게 동작하는지 학습하기에 더 나을 것이다.     
@@ -73,7 +73,7 @@ Vulkan 오브젝트는 `vKCreateXXX`와 같은 함수로 호출되거나, `vKAll
 
 
 
-#Integrating GLFW
+# Integrating GLFW
 > GLFW 통합 (window(실행창)를 통한 실습환경 구축)   
 
 사실 윈도우 창이 없어도, 정상 작동을 한다.   
@@ -162,4 +162,4 @@ void cleanup() {
 이제 프로그램을 실행시켜보자! `Vulkan`이라는 제목(만약 다른 걸로 바꿨다면 그거)의 프로그램이 실행될 것이다!      
 우리가 닫기 전까지는 계속 켜져 있는 것을 볼 수 있을 것이다.      
 우리는 이제 Vulkan의 뼈대를 만들 것이다..!  
-[Vulkan 오브젝트 만들러 가기](../Draw a triangle/02_Instance.md, "instance")
+[Vulkan 오브젝트 만들러 가기](../Draw a triangle/02_Instance.md "instance")
