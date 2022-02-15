@@ -1,0 +1,117 @@
+{
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"INSTALL"
+		],
+		"files" : 
+		[
+			"external/assimp-3.0.1270/code/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 675,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 676,
+				"parent" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 677,
+				"parent" : 0
+			}
+		]
+	},
+	"installers" : 
+	[
+		{
+			"backtrace" : 1,
+			"component" : "libassimp3.0-r1270-OGLtuts",
+			"destination" : "lib",
+			"paths" : 
+			[
+				"external/assimp-3.0.1270/code/libassimp.a"
+			],
+			"targetId" : "assimp::@fd34c06cfae9bc0e2791",
+			"targetIndex" : 6,
+			"type" : "target"
+		},
+		{
+			"backtrace" : 2,
+			"component" : "Unspecified",
+			"destination" : "/assimp",
+			"paths" : 
+			[
+				"external/assimp-3.0.1270/code/../include/assimp/anim.h",
+				"external/assimp-3.0.1270/code/../include/assimp/ai_assert.h",
+				"external/assimp-3.0.1270/code/../include/assimp/camera.h",
+				"external/assimp-3.0.1270/code/../include/assimp/color4.h",
+				"external/assimp-3.0.1270/code/../include/assimp/color4.inl",
+				"external/assimp-3.0.1270/code/../include/assimp/config.h",
+				"external/assimp-3.0.1270/code/../include/assimp/defs.h",
+				"external/assimp-3.0.1270/code/../include/assimp/cfileio.h",
+				"external/assimp-3.0.1270/code/../include/assimp/light.h",
+				"external/assimp-3.0.1270/code/../include/assimp/material.h",
+				"external/assimp-3.0.1270/code/../include/assimp/material.inl",
+				"external/assimp-3.0.1270/code/../include/assimp/matrix3x3.h",
+				"external/assimp-3.0.1270/code/../include/assimp/matrix3x3.inl",
+				"external/assimp-3.0.1270/code/../include/assimp/matrix4x4.h",
+				"external/assimp-3.0.1270/code/../include/assimp/matrix4x4.inl",
+				"external/assimp-3.0.1270/code/../include/assimp/mesh.h",
+				"external/assimp-3.0.1270/code/../include/assimp/postprocess.h",
+				"external/assimp-3.0.1270/code/../include/assimp/quaternion.h",
+				"external/assimp-3.0.1270/code/../include/assimp/quaternion.inl",
+				"external/assimp-3.0.1270/code/../include/assimp/scene.h",
+				"external/assimp-3.0.1270/code/../include/assimp/texture.h",
+				"external/assimp-3.0.1270/code/../include/assimp/types.h",
+				"external/assimp-3.0.1270/code/../include/assimp/vector2.h",
+				"external/assimp-3.0.1270/code/../include/assimp/vector2.inl",
+				"external/assimp-3.0.1270/code/../include/assimp/vector3.h",
+				"external/assimp-3.0.1270/code/../include/assimp/vector3.inl",
+				"external/assimp-3.0.1270/code/../include/assimp/version.h",
+				"external/assimp-3.0.1270/code/../include/assimp/cimport.h",
+				"external/assimp-3.0.1270/code/../include/assimp/importerdesc.h",
+				"external/assimp-3.0.1270/code/../include/assimp/Importer.hpp",
+				"external/assimp-3.0.1270/code/../include/assimp/DefaultLogger.hpp",
+				"external/assimp-3.0.1270/code/../include/assimp/ProgressHandler.hpp",
+				"external/assimp-3.0.1270/code/../include/assimp/IOStream.hpp",
+				"external/assimp-3.0.1270/code/../include/assimp/IOSystem.hpp",
+				"external/assimp-3.0.1270/code/../include/assimp/Logger.hpp",
+				"external/assimp-3.0.1270/code/../include/assimp/LogStream.hpp",
+				"external/assimp-3.0.1270/code/../include/assimp/NullLogger.hpp",
+				"external/assimp-3.0.1270/code/../include/assimp/cexport.h",
+				"external/assimp-3.0.1270/code/../include/assimp/Exporter.hpp"
+			],
+			"type" : "file"
+		},
+		{
+			"backtrace" : 3,
+			"component" : "Unspecified",
+			"destination" : "/assimp/Compiler",
+			"paths" : 
+			[
+				"external/assimp-3.0.1270/code/../include/assimp/Compiler/pushpack1.h",
+				"external/assimp-3.0.1270/code/../include/assimp/Compiler/poppack1.h",
+				"external/assimp-3.0.1270/code/pstdint.h"
+			],
+			"type" : "file"
+		}
+	],
+	"paths" : 
+	{
+		"build" : "external/assimp-3.0.1270/code",
+		"source" : "external/assimp-3.0.1270/code"
+	}
+}

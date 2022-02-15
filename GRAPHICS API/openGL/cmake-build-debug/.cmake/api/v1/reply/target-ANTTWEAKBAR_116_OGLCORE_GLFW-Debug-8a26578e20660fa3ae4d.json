@@ -1,0 +1,411 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "external/libANTTWEAKBAR_116_OGLCORE_GLFW.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"add_definitions",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"external/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 137,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 158,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 102,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 99,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 133,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 157,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 173,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "ASSIMP_BUILD_BOOST_WORKAROUND"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "GLEW_STATIC"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "TW_NO_DIRECT3D"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "TW_NO_LIB_PRAGMA"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "TW_STATIC"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "_CRT_SECURE_NO_WARNINGS"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "_MACOSX"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/external/glfw-3.1.2/include/GLFW"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/external/glew-1.13.0/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/external/AntTweakBar-1.16/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/external/AntTweakBar-1.16/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/external/assimp-3.0.1270/code/BoostWorkaround"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/external/bullet-2.81-rev2613/src"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "ASSIMP_BUILD_BOOST_WORKAROUND"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "GLEW_STATIC"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "TW_NO_DIRECT3D"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "TW_NO_LIB_PRAGMA"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "TW_STATIC"
+				},
+				{
+					"backtrace" : 3,
+					"define" : "_CRT_SECURE_NO_WARNINGS"
+				},
+				{
+					"backtrace" : 4,
+					"define" : "_MACOSX"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 5,
+					"path" : "/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/external/glfw-3.1.2/include/GLFW"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/external/glew-1.13.0/include"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/external/AntTweakBar-1.16/src"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/external/AntTweakBar-1.16/include"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/external/assimp-3.0.1270/code/BoostWorkaround"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/external/bullet-2.81-rev2613/src"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				4
+			]
+		}
+	],
+	"id" : "ANTTWEAKBAR_116_OGLCORE_GLFW::@89556154f30252d09d22",
+	"name" : "ANTTWEAKBAR_116_OGLCORE_GLFW",
+	"nameOnDisk" : "libANTTWEAKBAR_116_OGLCORE_GLFW.a",
+	"paths" : 
+	{
+		"build" : "external",
+		"source" : "external"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9
+			]
+		},
+		{
+			"name" : "Header Files",
+			"sourceIndexes" : 
+			[
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "cmake-build-debug/external/AntTweakBar-ObjectiveC/LoadOGL.mm",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "cmake-build-debug/external/AntTweakBar-ObjectiveC/LoadOGLCore.mm",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "cmake-build-debug/external/AntTweakBar-ObjectiveC/TwColors.mm",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "cmake-build-debug/external/AntTweakBar-ObjectiveC/TwBar.mm",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "cmake-build-debug/external/AntTweakBar-ObjectiveC/TwEventGLFW.m",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "cmake-build-debug/external/AntTweakBar-ObjectiveC/TwFonts.mm",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "cmake-build-debug/external/AntTweakBar-ObjectiveC/TwMgr.mm",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "cmake-build-debug/external/AntTweakBar-ObjectiveC/TwOpenGL.mm",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "cmake-build-debug/external/AntTweakBar-ObjectiveC/TwOpenGLCore.mm",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "cmake-build-debug/external/AntTweakBar-ObjectiveC/TwPrecomp.mm",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"path" : "external/AntTweakBar-1.16/src/AntPerfTimer.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "external/AntTweakBar-1.16/src/LoadOGL.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "external/AntTweakBar-1.16/src/LoadOGLCore.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "external/AntTweakBar-1.16/src/MiniGLFW.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "external/AntTweakBar-1.16/src/resource.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "external/AntTweakBar-1.16/src/TwBar.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "external/AntTweakBar-1.16/src/TwColors.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "external/AntTweakBar-1.16/src/TwFonts.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "external/AntTweakBar-1.16/src/TwGraph.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "external/AntTweakBar-1.16/src/TwMgr.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "external/AntTweakBar-1.16/src/TwOpenGL.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "external/AntTweakBar-1.16/src/TwOpenGLCore.h",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 1,
+			"path" : "external/AntTweakBar-1.16/src/TwPrecomp.h",
+			"sourceGroupIndex" : 1
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

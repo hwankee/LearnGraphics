@@ -1,0 +1,18 @@
+# ninja log v5
+0	914	1644927818837872582	CMakeFiles/tutorial01_first_window.dir/tutorial01_first_window/tutorial01.cpp.o	8bfba8109bc39054
+1	1435	1644927819348953011	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/init.c.o	29764b2f870f9a6d
+2	1441	1644927819351468132	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/monitor.c.o	c42c10ab1556c1ce
+1	1452	1644927819370047268	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/context.c.o	4d617c533f3fef7
+1	1463	1644927819379988960	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/input.c.o	dda4170fbfbe10e3
+2	1466	1644927819384610373	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/window.c.o	f659c695dd494a14
+276	1559	1644927819476370373	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/posix_tls.c.o	dba6d73d1ef2d04f
+4	1561	1644927819478567423	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/mach_time.c.o	8f2683f2fc125cb1
+1	1738	1644927819658967490	external/CMakeFiles/GLEW_1130.dir/glew-1.13.0/src/glew.c.o	c87a2b021815e8fc
+1738	1929	1644927819861869000	external/libGLEW_1130.a	f393d7e619cd9ef0
+2	2199	1644927820116814549	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/cocoa_init.m.o	649b1f24b9a7b354
+3	2214	1644927820129950486	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/iokit_joystick.m.o	67bd480f67fb3008
+2	2217	1644927820133334976	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/cocoa_monitor.m.o	2d3f65f2ca10598d
+278	2234	1644927820154225282	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/nsgl_context.m.o	2395bdfc2f44f538
+3	2273	1644927820191539020	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/cocoa_window.m.o	610a9207cbbd9532
+2277	2327	1644927820260105000	external/glfw-3.1.2/src/libglfw3.a	a6ccab39c0eb2cdb
+2327	2557	1644927820464724533	tutorial01_first_window	265a15beeed73eb6
