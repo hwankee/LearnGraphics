@@ -16,3 +16,12 @@
 3	2273	1644927820191539020	external/glfw-3.1.2/src/CMakeFiles/glfw.dir/cocoa_window.m.o	610a9207cbbd9532
 2277	2327	1644927820260105000	external/glfw-3.1.2/src/libglfw3.a	a6ccab39c0eb2cdb
 2327	2557	1644927820464724533	tutorial01_first_window	265a15beeed73eb6
+51	429	1644928529949226622	CMakeFiles/tutorial02_red_triangle.dir/tutorial02_red_triangle/tutorial02.cpp.o	4b32db826a7ecad
+51	880	1644928530398779025	CMakeFiles/tutorial02_red_triangle.dir/common/shader.cpp.o	2bee44d437254f22
+880	1108	1644928530602438820	tutorial02_red_triangle	104ab72054e025b9
+13	431	1644929017519851017	CMakeFiles/tutorial03_matrices.dir/tutorial03_matrices/tutorial03.cpp.o	3e3ec26e0529070e
+13	878	1644929017965966007	CMakeFiles/tutorial03_matrices.dir/common/shader.cpp.o	f305f2a088e852d9
+878	1123	1644929018187729422	tutorial03_matrices	135d02ea323253d6
+11	508	1644929184181968035	CMakeFiles/playground.dir/playground/playground.cpp.o	7b96fd52e7011ab1
+11	990	1644929184668489351	CMakeFiles/playground.dir/common/shader.cpp.o	80e477518fbc65df
+990	1203	1644929184858798912	playground	b5f460f25065704b
