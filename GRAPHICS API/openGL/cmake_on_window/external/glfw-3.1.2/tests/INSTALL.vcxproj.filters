@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\d2dc3bea7c4c5205d82afa04f2f471b3\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{0A72F22D-74D5-38D3-BC30-50115AA25623}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

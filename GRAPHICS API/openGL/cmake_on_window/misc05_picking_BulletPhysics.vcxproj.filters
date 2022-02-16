@@ -1,0 +1,62 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\misc05_picking\misc05_picking_BulletPhysics.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\shader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\controls.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\texture.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\objloader.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\vboindexer.cpp">
+      <Filter>common</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\shader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\controls.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\texture.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\objloader.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\vboindexer.hpp">
+      <Filter>common</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\misc05_picking\StandardShading.vertexshader">
+      <Filter>shaders</Filter>
+    </None>
+    <None Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\misc05_picking\StandardShading.fragmentshader">
+      <Filter>shaders</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{620292D1-5CA3-3362-B9D7-46C56146C74B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="common">
+      <UniqueIdentifier>{397E9C88-9CDD-30C7-BB9E-6732065B9B92}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="shaders">
+      <UniqueIdentifier>{03A43D91-28A9-36FC-8F6F-AB07EFC9D9DA}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

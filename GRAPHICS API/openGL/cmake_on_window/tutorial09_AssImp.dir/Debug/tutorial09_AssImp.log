@@ -1,0 +1,15 @@
+﻿  Building Custom Rule C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/CMakeLists.txt
+  tutorial09_AssImp.cpp
+  shader.cpp
+  controls.cpp
+  texture.cpp
+  objloader.cpp
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\controls.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\tutorial09_vbo_indexing\tutorial09_AssImp.cpp(220,3): warning C4267: '인수': 'size_t'에서 'GLsizei'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\defs.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\objloader.cpp)
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\matrix3x3.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\objloader.cpp)
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\matrix4x4.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\objloader.cpp)
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\matrix3x3.inl(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\objloader.cpp)
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\matrix4x4.inl(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\common\objloader.cpp)
+     C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/cmake_on_window/Debug/tutorial09_AssImp.lib 라이브러리 및 C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/cmake_on_window/Debug/tutorial09_AssImp.exp 개체를 생성하고 있습니다.
+  tutorial09_AssImp.vcxproj -> C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\Debug\tutorial09_AssImp.exe

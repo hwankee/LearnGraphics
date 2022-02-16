@@ -1,0 +1,1209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Assimp.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\AssimpPCH.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BaseImporter.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BaseProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\PostStepRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ImporterRegistry.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\DefaultIOStream.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\DefaultIOSystem.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Importer.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SGSpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\VertexTriangleAdjacency.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SpatialSort.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SceneCombiner.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ScenePreprocessor.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SkeletonMeshBuilder.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SplitByBoneCountProcess.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\StandardShapes.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\TargetAnimation.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\RemoveComments.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Subdivision.cpp">
+      <Filter>Common</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\DefaultLogger.cpp">
+      <Filter>Logging</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Exporter.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\AssimpCExport.cpp">
+      <Filter>Exporter</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\CalcTangentsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ComputeUVMappingProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ConvertToLHProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\FindDegenerates.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\FindInstancesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\FindInvalidDataProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\FixNormalsStep.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\GenFaceNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\GenVertexNormalsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\PretransformVertices.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ImproveCacheLocality.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\JoinVerticesProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\LimitBoneWeightsProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\RemoveRedundantMaterials.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\RemoveVCProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SortByPTypeProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SplitLargeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\TerragenLoader.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\TextureTransform.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\TriangulateProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ValidateDataStructure.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\OptimizeGraph.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\OptimizeMeshes.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\DeboneProcess.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ProcessHelper.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MakeVerboseFormat.cpp">
+      <Filter>PostProcessing</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\3DSConverter.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\3DSLoader.cpp">
+      <Filter>3DS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ACLoader.cpp">
+      <Filter>AC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ASELoader.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ASEParser.cpp">
+      <Filter>ASE</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\B3DImporter.cpp">
+      <Filter>B3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BVHLoader.cpp">
+      <Filter>BVH</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ColladaLoader.cpp">
+      <Filter>Collada</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ColladaParser.cpp">
+      <Filter>Collada</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ColladaExporter.cpp">
+      <Filter>Collada</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\DXFLoader.cpp">
+      <Filter>DXF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\CSMLoader.cpp">
+      <Filter>CSM</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\HMPLoader.cpp">
+      <Filter>HMP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IRRLoader.cpp">
+      <Filter>Irr</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IRRMeshLoader.cpp">
+      <Filter>Irr</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IRRShared.cpp">
+      <Filter>Irr</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\LWOAnimation.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\LWOBLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\LWOLoader.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\LWOMaterial.cpp">
+      <Filter>LWO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\LWSLoader.cpp">
+      <Filter>LWS</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\M3Importer.cpp">
+      <Filter>M3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MD2Loader.cpp">
+      <Filter>MD2</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MD3Loader.cpp">
+      <Filter>MD3</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MD5Loader.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MD5Parser.cpp">
+      <Filter>MD5</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MDCLoader.cpp">
+      <Filter>MDC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MDLLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MDLMaterialLoader.cpp">
+      <Filter>MDL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MaterialSystem.cpp">
+      <Filter>MaterialSystem</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\NFFLoader.cpp">
+      <Filter>NFF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\OFFLoader.cpp">
+      <Filter>OFFFormat</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ObjFileImporter.cpp">
+      <Filter>Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ObjFileMtlImporter.cpp">
+      <Filter>Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ObjFileParser.cpp">
+      <Filter>Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ObjExporter.cpp">
+      <Filter>Obj</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\OgreImporter.cpp">
+      <Filter>Ogre</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\OgreMaterial.cpp">
+      <Filter>Ogre</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\OgreMesh.cpp">
+      <Filter>Ogre</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\OgreSkeleton.cpp">
+      <Filter>Ogre</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\PlyLoader.cpp">
+      <Filter>Ply</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\PlyParser.cpp">
+      <Filter>Ply</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\PlyExporter.cpp">
+      <Filter>Ply</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Q3DLoader.cpp">
+      <Filter>Q3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Q3BSPFileParser.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Q3BSPFileImporter.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Q3BSPZipArchive.cpp">
+      <Filter>Q3BSP</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\RawLoader.cpp">
+      <Filter>Raw</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SMDLoader.cpp">
+      <Filter>SMD</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\STLLoader.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\STLExporter.cpp">
+      <Filter>STL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\UnrealLoader.cpp">
+      <Filter>Unreal</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\XFileImporter.cpp">
+      <Filter>XFile</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\XFileParser.cpp">
+      <Filter>XFile</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MS3DLoader.cpp">
+      <Filter>MS3D</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\COBLoader.cpp">
+      <Filter>COB</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BlenderLoader.cpp">
+      <Filter>BLENDER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BlenderDNA.cpp">
+      <Filter>BLENDER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BlenderScene.cpp">
+      <Filter>BLENDER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BlenderModifier.cpp">
+      <Filter>BLENDER</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\NDOLoader.cpp">
+      <Filter>NDO</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IFCLoader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IFCReaderGen.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IFCUtil.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IFCGeometry.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IFCMaterial.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IFCProfile.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IFCCurve.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\STEPFileReader.cpp">
+      <Filter>IFC</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\XGLLoader.cpp">
+      <Filter>XGL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\irrXML\irrXML.cpp">
+      <Filter>IrrXML</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\ConvertUTF\ConvertUTF.c">
+      <Filter>ConvertUTF</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\unzip\ioapi.c">
+      <Filter>unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\unzip\unzip.c">
+      <Filter>unzip</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\common\shapes.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\advancing_front.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\cdt.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\sweep.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\sweep_context.cc">
+      <Filter>Poly2Tri</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\clipper\clipper.cpp">
+      <Filter>Clipper</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\AssimpPCH.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\fast_atof.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\qnan.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BaseImporter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BaseProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Importer.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ScenePrivate.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ByteSwap.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\DefaultProgressHandler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\DefaultIOStream.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\DefaultIOSystem.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\CInterfaceIOWrapper.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Hash.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IFF.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ParsingUtils.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\StdOStreamLogStream.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\StreamReader.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\StringComparison.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SGSpatialSort.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\VertexTriangleAdjacency.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\GenericProperty.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SpatialSort.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SceneCombiner.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ScenePreprocessor.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SkeletonMeshBuilder.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SplitByBoneCountProcess.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SmoothingGroups.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\StandardShapes.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\TargetAnimation.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\RemoveComments.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Subdivision.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Vertex.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\LineSplitter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\TinyFormatter.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Profiler.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\LogAux.h">
+      <Filter>Common</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\DefaultLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\IOStream.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\LogStream.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\Logger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\NullLogger.hpp">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Win32DebugLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\FileLogStream.h">
+      <Filter>Logging</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BlobIOSystem.h">
+      <Filter>Exporter</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\CalcTangentsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ComputeUVMappingProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ConvertToLHProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\FindDegenerates.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\FindInstancesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\FindInvalidDataProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\FixNormalsStep.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\GenFaceNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\GenVertexNormalsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\PretransformVertices.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ImproveCacheLocality.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\JoinVerticesProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\LimitBoneWeightsProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\RemoveRedundantMaterials.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\RemoveVCProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SortByPTypeProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SplitLargeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\TerragenLoader.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\TextureTransform.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\TriangulateProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ValidateDataStructure.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\OptimizeGraph.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\OptimizeMeshes.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\DeboneProcess.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ProcessHelper.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\PolyTools.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MakeVerboseFormat.h">
+      <Filter>PostProcessing</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\3DSHelper.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\3DSLoader.h">
+      <Filter>3DS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ACLoader.h">
+      <Filter>AC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ASELoader.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ASEParser.h">
+      <Filter>ASE</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\B3DImporter.h">
+      <Filter>B3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BVHLoader.h">
+      <Filter>BVH</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ColladaHelper.h">
+      <Filter>Collada</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ColladaLoader.h">
+      <Filter>Collada</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ColladaParser.h">
+      <Filter>Collada</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ColladaExporter.h">
+      <Filter>Collada</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\DXFLoader.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\DXFHelper.h">
+      <Filter>DXF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\CSMLoader.h">
+      <Filter>CSM</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\HMPFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\HMPLoader.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\HalfLifeFileData.h">
+      <Filter>HMP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IRRLoader.h">
+      <Filter>Irr</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IRRMeshLoader.h">
+      <Filter>Irr</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IRRShared.h">
+      <Filter>Irr</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\LWOAnimation.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\LWOFileData.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\LWOLoader.h">
+      <Filter>LWO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\LWSLoader.h">
+      <Filter>LWS</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\M3Importer.h">
+      <Filter>M3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MD2FileData.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MD2Loader.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MD2NormalTable.h">
+      <Filter>MD2</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MD3FileData.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MD3Loader.h">
+      <Filter>MD3</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MD5Loader.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MD5Parser.h">
+      <Filter>MD5</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MDCFileData.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MDCLoader.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MDCNormalTable.h">
+      <Filter>MDC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MDLDefaultColorMap.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MDLFileData.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MDLLoader.h">
+      <Filter>MDL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MaterialSystem.h">
+      <Filter>MaterialSystem</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\NFFLoader.h">
+      <Filter>NFF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\OFFLoader.h">
+      <Filter>OFFFormat</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ObjFileData.h">
+      <Filter>Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ObjFileImporter.h">
+      <Filter>Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ObjFileMtlImporter.h">
+      <Filter>Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ObjFileParser.h">
+      <Filter>Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ObjTools.h">
+      <Filter>Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\ObjExporter.h">
+      <Filter>Obj</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\OgreImporter.hpp">
+      <Filter>Ogre</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\OgreXmlHelper.hpp">
+      <Filter>Ogre</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\PlyLoader.h">
+      <Filter>Ply</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\PlyParser.h">
+      <Filter>Ply</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\PlyExporter.h">
+      <Filter>Ply</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Q3DLoader.h">
+      <Filter>Q3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Q3BSPFileData.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Q3BSPFileParser.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Q3BSPFileImporter.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\Q3BSPZipArchive.h">
+      <Filter>Q3BSP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\RawLoader.h">
+      <Filter>Raw</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\SMDLoader.h">
+      <Filter>SMD</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\STLLoader.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\STLExporter.h">
+      <Filter>STL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\UnrealLoader.h">
+      <Filter>Unreal</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\XFileHelper.h">
+      <Filter>XFile</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\XFileImporter.h">
+      <Filter>XFile</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\XFileParser.h">
+      <Filter>XFile</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MD4FileData.h">
+      <Filter>Extra</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\MS3DLoader.h">
+      <Filter>MS3D</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\COBLoader.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\COBScene.h">
+      <Filter>COB</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BlenderLoader.h">
+      <Filter>BLENDER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BlenderDNA.h">
+      <Filter>BLENDER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BlenderDNA.inl">
+      <Filter>BLENDER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BlenderScene.h">
+      <Filter>BLENDER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BlenderSceneGen.h">
+      <Filter>BLENDER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BlenderIntermediate.h">
+      <Filter>BLENDER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BlenderModifier.h">
+      <Filter>BLENDER</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\NDOLoader.h">
+      <Filter>NDO</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IFCLoader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IFCReaderGen.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\IFCUtil.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\STEPFile.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\STEPFileReader.h">
+      <Filter>IFC</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\XGLLoader.h">
+      <Filter>XGL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\irrXMLWrapper.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\irrXML\CXMLReaderImpl.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\irrXML\heapsort.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\irrXML\irrArray.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\irrXML\irrString.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\irrXML\irrTypes.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\irrXML\irrXML.h">
+      <Filter>IrrXML</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\ConvertUTF\ConvertUTF.h">
+      <Filter>ConvertUTF</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\unzip\crypt.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\unzip\ioapi.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\unzip\unzip.h">
+      <Filter>unzip</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\common\shapes.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\common\utils.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\advancing_front.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\cdt.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\sweep.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\poly2tri\poly2tri\sweep\sweep_context.h">
+      <Filter>Poly2Tri</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\contrib\clipper\clipper.hpp">
+      <Filter>Clipper</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BoostWorkaround\boost\math\common_factor_rt.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BoostWorkaround\boost\foreach.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BoostWorkaround\boost\format.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BoostWorkaround\boost\scoped_array.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BoostWorkaround\boost\scoped_ptr.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BoostWorkaround\boost\shared_array.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BoostWorkaround\boost\shared_ptr.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BoostWorkaround\boost\make_shared.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BoostWorkaround\boost\static_assert.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\BoostWorkaround\boost\tuple\tuple.hpp">
+      <Filter>Boost</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\anim.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\ai_assert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\camera.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\color4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\color4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\config.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\defs.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\cfileio.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\light.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\material.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\material.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\matrix3x3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\matrix3x3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\matrix4x4.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\matrix4x4.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\mesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\postprocess.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\quaternion.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\quaternion.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\scene.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\texture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\types.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\vector2.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\vector2.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\vector3.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\vector3.inl">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\version.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\cimport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\importerdesc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\Importer.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\ProgressHandler.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\IOSystem.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\cexport.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\Exporter.hpp">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\Compiler\pushpack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include\assimp\Compiler\poppack1.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\pstdint.h">
+      <Filter>Compiler</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\code\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="3DS">
+      <UniqueIdentifier>{9BEB9868-8D06-3C21-AB94-DD7F47B0F7E4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="AC">
+      <UniqueIdentifier>{EDFBC8F2-4FB3-3DF1-B89D-A3C0AE116121}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ASE">
+      <UniqueIdentifier>{5FE6B5B7-BE92-3E90-84BF-7131C865EC35}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="B3D">
+      <UniqueIdentifier>{EB1A9EF9-3775-3F46-8460-232059573DF4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BLENDER">
+      <UniqueIdentifier>{712E7FA4-E1B5-38CF-A3BC-50CC9E38C85E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="BVH">
+      <UniqueIdentifier>{95564467-7D98-3247-AF8D-62332A506AB1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Boost">
+      <UniqueIdentifier>{641B7F4B-D84A-30F5-BB7A-14324EF26A98}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="COB">
+      <UniqueIdentifier>{70184D91-11F1-378C-9E5D-1BC1DDCE97C2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="CSM">
+      <UniqueIdentifier>{7E73FF05-49A8-3AB3-9B09-E685158B01F1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Clipper">
+      <UniqueIdentifier>{4F3335A9-B928-3223-855E-F96B87B94C4D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Collada">
+      <UniqueIdentifier>{DF2FA80C-AE31-3131-B9B9-B9718F971A59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Common">
+      <UniqueIdentifier>{EB79673E-3BC5-316A-9A54-86B1B73945F4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Compiler">
+      <UniqueIdentifier>{6E21BF7C-0B7B-3BFD-9960-E37973B9718C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ConvertUTF">
+      <UniqueIdentifier>{88168FC9-9276-37ED-95F8-9BFE836D1368}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="DXF">
+      <UniqueIdentifier>{E0A5F7B4-997D-36E4-87E1-5314CF36952E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exporter">
+      <UniqueIdentifier>{0D1E91C8-33BA-36A6-BAF6-8020C8AE33F7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Extra">
+      <UniqueIdentifier>{9215FF2C-4D36-3CB3-995F-A5C0379600FC}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="HMP">
+      <UniqueIdentifier>{8796CF04-82A3-3379-8CC2-4EAE5AD948DF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{21D98324-BF10-3B28-8691-B3920E6BD20B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IFC">
+      <UniqueIdentifier>{51BD19F8-C691-35A6-9F3D-FF9052F3DAEE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Irr">
+      <UniqueIdentifier>{AEBC187C-B562-3E14-A489-F1F318C25916}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="IrrXML">
+      <UniqueIdentifier>{9964C8C4-06AB-3692-8FD3-192DE1C08B17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWO">
+      <UniqueIdentifier>{5CDC4426-A381-3D24-8318-A7BA893D9D4B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LWS">
+      <UniqueIdentifier>{9FCD3E30-E22D-3555-8B5B-BFF8E4652D37}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Logging">
+      <UniqueIdentifier>{3983E9D5-DFBA-39B5-AD4E-1B18BA34E41D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="M3">
+      <UniqueIdentifier>{E31C219B-BE9C-34CF-B69F-235CFEC308EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD2">
+      <UniqueIdentifier>{52979070-235E-3AF8-A2F8-72CB9A38ACF8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD3">
+      <UniqueIdentifier>{C6B255A1-747F-31B4-A292-2B4692471538}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MD5">
+      <UniqueIdentifier>{55DB3506-9F5D-358D-8375-62E50C63A56C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDC">
+      <UniqueIdentifier>{44737319-C811-37E7-AD73-B59E9708CA78}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MDL">
+      <UniqueIdentifier>{6CD58B31-BADC-358D-8609-0701EF9CF1EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MS3D">
+      <UniqueIdentifier>{7902593A-EBEF-3560-BAEC-32544DD429E6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MaterialSystem">
+      <UniqueIdentifier>{5F9DA6CC-2F7E-3AF3-80CC-4C71BD37EFF6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NDO">
+      <UniqueIdentifier>{B22C79D2-D8CA-34A5-9047-D5782AC5B7B7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="NFF">
+      <UniqueIdentifier>{859DC222-ABEB-3C43-97A1-A4A30F1D7EB8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="OFFFormat">
+      <UniqueIdentifier>{4E0D84BE-5274-376D-B9D3-1EC0836A44FB}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Obj">
+      <UniqueIdentifier>{6D8A7B1D-1C15-38B8-921A-F6C50769C452}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ogre">
+      <UniqueIdentifier>{31F33618-84BB-3619-904B-802B6E860ECF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Ply">
+      <UniqueIdentifier>{0460E0B4-7A57-39C2-B0E1-E3505BC3F885}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Poly2Tri">
+      <UniqueIdentifier>{686A9068-0C0B-38BD-A148-826D0E7B9283}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="PostProcessing">
+      <UniqueIdentifier>{57FFC464-BB20-3DA7-9F43-65BBB00D0D2C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3BSP">
+      <UniqueIdentifier>{A55DF8CC-8348-31FD-AC67-D568737373EE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Q3D">
+      <UniqueIdentifier>{D209571C-F145-302F-83C0-378866A79586}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Raw">
+      <UniqueIdentifier>{676F33D6-26EE-38F3-BED7-75EEA2DC032F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="SMD">
+      <UniqueIdentifier>{830A3150-B7E1-346C-8A24-8E46651F5511}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="STL">
+      <UniqueIdentifier>{C95CEC6F-CA26-3522-8A19-2B56AC8B18CD}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{620292D1-5CA3-3362-B9D7-46C56146C74B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Unreal">
+      <UniqueIdentifier>{0D9C1E47-23BF-34FB-B2B3-2D3302E108B5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XFile">
+      <UniqueIdentifier>{4AB10E55-1C55-34AD-9E13-DDB70B7AB0AA}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="XGL">
+      <UniqueIdentifier>{1351BEC8-9876-3B63-B570-D0C46BDC45D7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="unzip">
+      <UniqueIdentifier>{E315C2B7-0259-35BE-96A7-9CC7118F7C20}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

@@ -69,7 +69,7 @@ int main( void )
 	// Get a handle for our "MVP" uniform
 	GLuint MatrixID = glGetUniformLocation(programID, "MVP");
 
-	// Projection matrix : 45° Field of View, 4:3 ratio, display range : 0.1 unit <-> 100 units
+	// Projection matrix : 45?Field of View, 4:3 ratio, display range : 0.1 unit <-> 100 units
 	glm::mat4 Projection = glm::perspective(glm::radians(45.0f), 4.0f / 3.0f, 0.1f, 100.0f);
 	// Camera matrix
 	glm::mat4 View       = glm::lookAt(
@@ -83,8 +83,8 @@ int main( void )
 	glm::mat4 MVP        = Projection * View * Model; // Remember, matrix multiplication is the other way around
 
 	// Load the texture using any two methods
-	//GLuint Texture = loadBMP_custom("uvtemplate.bmp");
-	GLuint Texture = loadDDS("uvtemplate.DDS");
+	GLuint Texture = loadBMP_custom("./uvtemplate.bmp");
+	// GLuint Texture = loadDDS("./uvtemplate.DDS");
 	
 	// Get a handle for our "myTextureSampler" uniform
 	GLuint TextureID  = glGetUniformLocation(programID, "myTextureSampler");

@@ -1,0 +1,11 @@
+﻿  Building Custom Rule C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/external/assimp-3.0.1270/contrib/zlib/CMakeLists.txt
+  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  trees.c
+  zutil.c
+  zlib.vcxproj -> C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\assimp-3.0.1270\contrib\zlib\Debug\zlibd.lib

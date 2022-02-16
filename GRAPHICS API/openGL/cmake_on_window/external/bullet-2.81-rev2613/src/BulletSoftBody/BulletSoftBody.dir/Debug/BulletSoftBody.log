@@ -1,0 +1,31 @@
+﻿  Building Custom Rule C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/external/bullet-2.81-rev2613/src/BulletSoftBody/CMakeLists.txt
+  btSoftBody.cpp
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBody.cpp(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오.
+  btSoftBodyConcaveCollisionAlgorithm.cpp
+  btSoftBodyHelpers.cpp
+  btSoftBodyRigidBodyCollisionConfiguration.cpp
+  btSoftRigidCollisionAlgorithm.cpp
+  btSoftRigidDynamicsWorld.cpp
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBody.cpp(3322,47): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBody.cpp(3323,47): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBody.cpp(3347,48): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBody.cpp(3368,49): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBody.cpp(3392,38): warning C4244: '=': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(914,41): warning C4838: 'T'에서 'const int'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(915,24): warning C4838: 'T'에서 'const int'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              T=unsigned int
+          ]
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletSoftBody\btSoftBodyHelpers.cpp(916,24): warning C4838: 'T'에서 'const int'(으)로의 변환에는 축소 변환이 필요합니다.
+          with
+          [
+              T=unsigned int
+          ]
+  btSoftSoftCollisionAlgorithm.cpp
+  btDefaultSoftBodySolver.cpp
+  BulletSoftBody.vcxproj -> C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\bullet-2.81-rev2613\src\BulletSoftBody\Debug\BulletSoftBody.lib

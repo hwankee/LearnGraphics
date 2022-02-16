@@ -1,0 +1,10 @@
+^C:\USERS\MATH_15\DOCUMENTS\GITHUB\LEARNGRAPHICS\GRAPHICS API\OPENGL\CMAKE_ON_WINDOW\CMAKEFILES\500FA58F26A40A29B3E01879CF96C4AB\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL" "-BC:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/cmake_on_window" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/cmake_on_window/Tutorials.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,0 +1,409 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <PreferredToolArchitecture>x64</PreferredToolArchitecture>
+  </PropertyGroup>
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="MinSizeRel|x64">
+      <Configuration>MinSizeRel</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="RelWithDebInfo|x64">
+      <Configuration>RelWithDebInfo</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <ProjectGuid>{03690794-6EFD-3588-A987-6EDD737E506F}</ProjectGuid>
+    <WindowsTargetPlatformVersion>10.0.19041.0</WindowsTargetPlatformVersion>
+    <Keyword>Win32Proj</Keyword>
+    <Platform>x64</Platform>
+    <ProjectName>ALL_BUILD</ProjectName>
+    <VCProjectUpgraderObjectName>NoUpgrade</VCProjectUpgraderObjectName>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'" Label="Configuration">
+    <ConfigurationType>Utility</ConfigurationType>
+    <CharacterSet>MultiByte</CharacterSet>
+    <PlatformToolset>v142</PlatformToolset>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup>
+    <_ProjectFileVersion>10.0.20506.1</_ProjectFileVersion>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='Release|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+    <IntDir Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">$(Platform)\$(Configuration)\$(ProjectName)\</IntDir>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\glfw-3.1.2\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\glm-0.9.7.1;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\glew-1.13.0\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\.;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\glfw-3.1.2\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\glm-0.9.7.1;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\glew-1.13.0\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\.;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\glfw-3.1.2\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\glm-0.9.7.1;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\glew-1.13.0\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\.;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <Midl>
+      <AdditionalIncludeDirectories>C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\glfw-3.1.2\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\glm-0.9.7.1;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\glew-1.13.0\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\assimp-3.0.1270\include;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\.;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+      <OutputDirectory>$(ProjectDir)/$(IntDir)</OutputDirectory>
+      <HeaderFileName>%(Filename).h</HeaderFileName>
+      <TypeLibraryName>%(Filename).tlb</TypeLibraryName>
+      <InterfaceIdentifierFileName>%(Filename)_i.c</InterfaceIdentifierFileName>
+      <ProxyFileName>%(Filename)_p.c</ProxyFileName>
+    </Midl>
+  </ItemDefinitionGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\CMakeLists.txt">
+      <UseUtf8Encoding>Always</UseUtf8Encoding>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Building Custom Rule C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL" "-BC:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/cmake_on_window" --check-stamp-file "C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/cmake_on_window/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\WindowsPaths.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeCCompiler.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeCXXCompiler.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeRCCompiler.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeSystem.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\CleanDirectoryList.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\CreateLaunchers.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\ListCombinations.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\MSVCMultipleProcessCompile.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\launcher-templates\targetlauncher.cmd.in;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\launcher-templates\vcxproj.user.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='Release|x64'">Building Custom Rule C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='Release|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL" "-BC:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/cmake_on_window" --check-stamp-file "C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/cmake_on_window/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\WindowsPaths.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeCCompiler.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeCXXCompiler.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeRCCompiler.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeSystem.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\CleanDirectoryList.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\CreateLaunchers.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\ListCombinations.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\MSVCMultipleProcessCompile.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\launcher-templates\targetlauncher.cmd.in;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\launcher-templates\vcxproj.user.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='Release|x64'">C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='Release|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">Building Custom Rule C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL" "-BC:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/cmake_on_window" --check-stamp-file "C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/cmake_on_window/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\WindowsPaths.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeCCompiler.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeCXXCompiler.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeRCCompiler.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeSystem.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\CleanDirectoryList.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\CreateLaunchers.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\ListCombinations.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\MSVCMultipleProcessCompile.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\launcher-templates\targetlauncher.cmd.in;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\launcher-templates\vcxproj.user.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">false</LinkObjects>
+      <Message Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">Building Custom Rule C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/CMakeLists.txt</Message>
+      <Command Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL" "-BC:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/cmake_on_window" --check-stamp-file "C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/cmake_on_window/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal &amp; call :cmErrorLevel %errorlevel% &amp; goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd</Command>
+      <AdditionalInputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeCInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeCXXInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeCommonLanguageInclude.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeGenericSystem.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeInitializeConfigs.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeLanguageInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeRCInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeSystemSpecificInformation.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\CMakeSystemSpecificInitialize.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Compiler\CMakeCommonCompilerMacros.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Compiler\MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Compiler\MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\FindOpenGL.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\FindPackageHandleStandardArgs.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\FindPackageMessage.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows-MSVC-C.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows-MSVC-CXX.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows-MSVC.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\Windows.cmake;C:\Program Files\CMake\share\cmake-3.22\Modules\Platform\WindowsPaths.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeCCompiler.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeCXXCompiler.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeRCCompiler.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\3.22.2\CMakeSystem.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\CleanDirectoryList.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\CreateLaunchers.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\ListCombinations.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\MSVCMultipleProcessCompile.cmake;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\launcher-templates\targetlauncher.cmd.in;C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\rpavlik-cmake-modules-fe2273\launcher-templates\vcxproj.user.in;%(AdditionalInputs)</AdditionalInputs>
+      <Outputs Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\CMakeFiles\generate.stamp</Outputs>
+      <LinkObjects Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">false</LinkObjects>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\ZERO_CHECK.vcxproj">
+      <Project>{2F280FE6-CE3B-3DDE-8B71-2BECE8EFB543}</Project>
+      <Name>ZERO_CHECK</Name>
+      <ReferenceOutputAssembly>false</ReferenceOutputAssembly>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\ANTTWEAKBAR_116_OGLCORE_GLFW.vcxproj">
+      <Project>{4DD460B3-ACA7-33DD-AE3F-A5432D33F277}</Project>
+      <Name>ANTTWEAKBAR_116_OGLCORE_GLFW</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\bullet-2.81-rev2613\src\BulletCollision\BulletCollision.vcxproj">
+      <Project>{EFD8BCDD-DD5F-308E-A66B-D9ABF3439D91}</Project>
+      <Name>BulletCollision</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\bullet-2.81-rev2613\src\BulletDynamics\BulletDynamics.vcxproj">
+      <Project>{7289221E-3B3F-3757-B67A-19CDAE5C8E7B}</Project>
+      <Name>BulletDynamics</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\bullet-2.81-rev2613\src\BulletSoftBody\BulletSoftBody.vcxproj">
+      <Project>{60840359-4A87-3875-9F21-4B6B36F00E6B}</Project>
+      <Name>BulletSoftBody</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\GLEW_1130.vcxproj">
+      <Project>{6852F784-B3BE-31CC-8318-AC519B3FF6DA}</Project>
+      <Name>GLEW_1130</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\bullet-2.81-rev2613\src\LinearMath\LinearMath.vcxproj">
+      <Project>{A79CE16C-36B0-36D7-B904-CAB02472A322}</Project>
+      <Name>LinearMath</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\assimp-3.0.1270\code\assimp.vcxproj">
+      <Project>{517A04CE-95E6-3775-A9E1-64C5695407AB}</Project>
+      <Name>assimp</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\examples\boing.vcxproj">
+      <Project>{B62365F0-F9A7-3AEE-9FD1-96A4F35DB8B7}</Project>
+      <Name>boing</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\clipboard.vcxproj">
+      <Project>{793744C4-3855-34D6-91F0-CA54D87DF959}</Project>
+      <Name>clipboard</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\cursor.vcxproj">
+      <Project>{705BC4C5-2211-3BE1-A025-3A7FF5D80FE6}</Project>
+      <Name>cursor</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\empty.vcxproj">
+      <Project>{73B0DB0A-B10E-3E93-9E4A-D31F14200126}</Project>
+      <Name>empty</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\events.vcxproj">
+      <Project>{6110CF19-46CD-3674-A401-6F28AB2598D5}</Project>
+      <Name>events</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\gamma.vcxproj">
+      <Project>{4196C4D5-2C54-3365-8967-398537896B73}</Project>
+      <Name>gamma</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\examples\gears.vcxproj">
+      <Project>{2DE4B761-8663-3F3E-9DDD-C13AEB6F772E}</Project>
+      <Name>gears</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\src\glfw.vcxproj">
+      <Project>{E49B9475-D200-3630-AF4E-4789A35E43C1}</Project>
+      <Name>glfw</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\glfwinfo.vcxproj">
+      <Project>{68626024-0CE5-3632-B41E-C10F13B1AEDA}</Project>
+      <Name>glfwinfo</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\examples\heightmap.vcxproj">
+      <Project>{12002527-9CE6-33F6-A3E4-1941FB653FCC}</Project>
+      <Name>heightmap</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\iconify.vcxproj">
+      <Project>{5622B5AE-C8AB-3B83-9A7F-72416FC5D01D}</Project>
+      <Name>iconify</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\joysticks.vcxproj">
+      <Project>{91C75320-7DAE-3D4D-B938-503A75BB4B82}</Project>
+      <Name>joysticks</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\misc05_picking_BulletPhysics.vcxproj">
+      <Project>{4E8AE14D-1841-3976-88B9-95FEDE1FC66F}</Project>
+      <Name>misc05_picking_BulletPhysics</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\misc05_picking_custom.vcxproj">
+      <Project>{F6CDF7E1-3113-37C9-887E-5CD2A2B2805C}</Project>
+      <Name>misc05_picking_custom</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\misc05_picking_slow_easy.vcxproj">
+      <Project>{0F6EE616-13C1-35B0-925C-7C23F3763BFD}</Project>
+      <Name>misc05_picking_slow_easy</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\monitors.vcxproj">
+      <Project>{0600AD1F-9221-3C07-B551-1D367791BFE0}</Project>
+      <Name>monitors</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\msaa.vcxproj">
+      <Project>{DA6E1F85-5F53-3C0B-805F-C05B4769EE3F}</Project>
+      <Name>msaa</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\examples\particles.vcxproj">
+      <Project>{8CA970F5-1EF3-36B7-8875-9183F1BD7DEB}</Project>
+      <Name>particles</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\playground.vcxproj">
+      <Project>{CC49F199-D3DA-394A-B2F6-B922EE903024}</Project>
+      <Name>playground</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\reopen.vcxproj">
+      <Project>{5CDE8440-1D15-379D-99CA-886E13137BF9}</Project>
+      <Name>reopen</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\sharing.vcxproj">
+      <Project>{C45F0238-B176-321F-AA6C-FC745F76CA54}</Project>
+      <Name>sharing</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\examples\simple.vcxproj">
+      <Project>{0CB0F76A-D670-39D1-A24E-E0DD8BE753F7}</Project>
+      <Name>simple</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\examples\splitview.vcxproj">
+      <Project>{DEF3141A-33BC-33E6-9B6C-43DC4949C617}</Project>
+      <Name>splitview</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\tearing.vcxproj">
+      <Project>{65D63C45-DF1D-3C47-A980-594B8A77A558}</Project>
+      <Name>tearing</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\threads.vcxproj">
+      <Project>{971D1A29-492F-3939-9E85-7AB73E0E0B77}</Project>
+      <Name>threads</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\title.vcxproj">
+      <Project>{BFF25062-868C-3059-84C1-56D7C44B963D}</Project>
+      <Name>title</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial01_first_window.vcxproj">
+      <Project>{6C616236-0E64-3D45-8765-C8B4B3C95B1C}</Project>
+      <Name>tutorial01_first_window</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial02_red_triangle.vcxproj">
+      <Project>{3C2FB32C-A144-3611-B2F0-03A0217E602B}</Project>
+      <Name>tutorial02_red_triangle</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial03_matrices.vcxproj">
+      <Project>{9B2491E2-DC1D-37F7-8F7A-0442F04D926D}</Project>
+      <Name>tutorial03_matrices</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial04_colored_cube.vcxproj">
+      <Project>{6772BA11-9D0E-3D00-9030-4AFCF9F05831}</Project>
+      <Name>tutorial04_colored_cube</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial05_textured_cube.vcxproj">
+      <Project>{34D17506-39D2-378F-9CD1-9857D88A2C5A}</Project>
+      <Name>tutorial05_textured_cube</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial06_keyboard_and_mouse.vcxproj">
+      <Project>{AE46D6D1-4737-3EB9-A74A-E66144DDE049}</Project>
+      <Name>tutorial06_keyboard_and_mouse</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial07_model_loading.vcxproj">
+      <Project>{6189428B-7E4A-39D8-B80E-D34C96A55D4B}</Project>
+      <Name>tutorial07_model_loading</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial08_basic_shading.vcxproj">
+      <Project>{6A6684C5-449D-3148-8568-C5AB7A0D9391}</Project>
+      <Name>tutorial08_basic_shading</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial09_AssImp.vcxproj">
+      <Project>{7F690A7F-A249-39F4-A91E-0EE889E9698A}</Project>
+      <Name>tutorial09_AssImp</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial09_several_objects.vcxproj">
+      <Project>{A1D8A2FF-2BF7-32F0-8E76-D345DD3F5F3F}</Project>
+      <Name>tutorial09_several_objects</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial09_vbo_indexing.vcxproj">
+      <Project>{41E47C4E-9292-3336-9999-9193ACE40C1D}</Project>
+      <Name>tutorial09_vbo_indexing</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial10_transparency.vcxproj">
+      <Project>{C3551571-BBF0-352A-906D-E142DF0A72B0}</Project>
+      <Name>tutorial10_transparency</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial11_2d_fonts.vcxproj">
+      <Project>{BD695A59-C4D2-3B13-AD4F-D3F28A6E4BE9}</Project>
+      <Name>tutorial11_2d_fonts</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial12_extensions.vcxproj">
+      <Project>{C31324D0-2098-3246-A933-D234BFBA71E9}</Project>
+      <Name>tutorial12_extensions</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial13_normal_mapping.vcxproj">
+      <Project>{AD8F0BC3-4A3C-3711-87B3-6F0DDDB29EF7}</Project>
+      <Name>tutorial13_normal_mapping</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial14_render_to_texture.vcxproj">
+      <Project>{81F98716-B768-3147-ACEC-DEB329FE482F}</Project>
+      <Name>tutorial14_render_to_texture</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial15_lightmaps.vcxproj">
+      <Project>{E33A04E6-F5C9-34E3-BDD3-6AC0152E67AE}</Project>
+      <Name>tutorial15_lightmaps</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial16_shadowmaps.vcxproj">
+      <Project>{3E9FE151-AAC8-3458-AE41-1EBB53E2984F}</Project>
+      <Name>tutorial16_shadowmaps</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial16_shadowmaps_simple.vcxproj">
+      <Project>{B6B98E77-C776-38BC-BECA-9E8181F57F78}</Project>
+      <Name>tutorial16_shadowmaps_simple</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial17_rotations.vcxproj">
+      <Project>{663D8A6F-458B-3719-9680-AF798B7DE7E1}</Project>
+      <Name>tutorial17_rotations</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial18_billboards.vcxproj">
+      <Project>{58550547-23BA-396A-9CEF-05A9BBA016D9}</Project>
+      <Name>tutorial18_billboards</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\tutorial18_particles.vcxproj">
+      <Project>{3BE0EB09-0C48-34B5-A5C7-B78F14D551B3}</Project>
+      <Name>tutorial18_particles</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\examples\wave.vcxproj">
+      <Project>{018E5121-2805-340E-BBFE-6BE7EDDC797B}</Project>
+      <Name>wave</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\glfw-3.1.2\tests\windows.vcxproj">
+      <Project>{4B1B9D1D-FA42-38D9-9A58-2372B67481E7}</Project>
+      <Name>windows</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\assimp-3.0.1270\contrib\zlib\zlib.vcxproj">
+      <Project>{F7B60511-DC4A-3C4F-A9EF-43EC3D3DDE3D}</Project>
+      <Name>zlib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

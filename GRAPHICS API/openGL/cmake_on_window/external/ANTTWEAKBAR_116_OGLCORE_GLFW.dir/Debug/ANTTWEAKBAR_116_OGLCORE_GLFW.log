@@ -1,0 +1,41 @@
+﻿  Building Custom Rule C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/external/CMakeLists.txt
+  LoadOGL.cpp
+  LoadOGLCore.cpp
+  TwColors.cpp
+  TwBar.cpp
+  TwFonts.cpp
+  TwMgr.cpp
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwFonts.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwBar.cpp)
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwFonts.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwBar.cpp)
+  TwOpenGL.cpp
+  TwOpenGLCore.cpp
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwFonts.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwFonts.cpp)
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwFonts.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwFonts.cpp)
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwFonts.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp)
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwFonts.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp)
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwFonts.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwFonts.cpp)
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwFonts.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp)
+  TwPrecomp.cpp
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6225,40): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6226,39): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6227,37): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6228,37): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6229,43): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6230,42): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6231,45): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6232,46): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6233,39): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6234,40): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6235,42): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6236,37): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6237,40): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6239,43): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6252,45): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6258,44): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwMgr.cpp(6267,53): warning C4302: '형식 캐스트': 'LPSTR'에서 'WORD'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwFonts.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwOpenGLCore.cpp)
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwFonts.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwOpenGLCore.cpp)
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwFonts.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwOpenGL.cpp)
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwFonts.h(1,1): warning C4819: 현재 코드 페이지(949)에서 표시할 수 없는 문자가 파일에 들어 있습니다. 데이터가 손실되지 않게 하려면 해당 파일을 유니코드 형식으로 저장하십시오. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\AntTweakBar-1.16\src\TwOpenGL.cpp)
+  TwEventGLFW.c
+  ANTTWEAKBAR_116_OGLCORE_GLFW.vcxproj -> C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\Debug\ANTTWEAKBAR_116_OGLCORE_GLFW.lib

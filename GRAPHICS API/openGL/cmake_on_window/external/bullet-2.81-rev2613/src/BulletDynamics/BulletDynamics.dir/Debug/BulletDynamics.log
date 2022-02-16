@@ -1,0 +1,31 @@
+﻿  Building Custom Rule C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/external/bullet-2.81-rev2613/src/BulletDynamics/CMakeLists.txt
+  btKinematicCharacterController.cpp
+  btConeTwistConstraint.cpp
+  btContactConstraint.cpp
+  btGearConstraint.cpp
+  btGeneric6DofConstraint.cpp
+  btGeneric6DofSpringConstraint.cpp
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(860,21): warning C4244: '=': 'double'에서 'btScalar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletDynamics\ConstraintSolver\btContactConstraint.h(25,28): warning C4359: 'btContactConstraint': 맞춤 지정자가 실제 맞춤(128)보다 작아 무시됩니다. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletDynamics\ConstraintSolver\btContactConstraint.cpp)
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(905,20): warning C4244: '=': 'double'에서 'float'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(965,13): warning C4244: '=': 'double'에서 'btScalar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletDynamics\ConstraintSolver\btConeTwistConstraint.cpp(967,8): warning C4244: '=': 'double'에서 'btScalar'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletDynamics\Character\btKinematicCharacterController.cpp(133,22): warning C4305: '=': 'double'에서 'btScalar'(으)로 잘립니다.
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletDynamics\Character\btKinematicCharacterController.cpp(144,22): warning C4305: '=': 'double'에서 'btScalar'(으)로 잘립니다.
+  btHinge2Constraint.cpp
+  btHingeConstraint.cpp
+  btPoint2PointConstraint.cpp
+  btSequentialImpulseConstraintSolver.cpp
+  btSliderConstraint.cpp
+  btSolve2LinearConstraint.cpp
+  btTypedConstraint.cpp
+  btUniversalConstraint.cpp
+  btDiscreteDynamicsWorld.cpp
+  btRigidBody.cpp
+  btSimpleDynamicsWorld.cpp
+  Bullet-C-API.cpp
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletDynamics/ConstraintSolver/btContactConstraint.h(25,28): warning C4359: 'btContactConstraint': 맞춤 지정자가 실제 맞춤(128)보다 작아 무시됩니다. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletDynamics\Dynamics\btDiscreteDynamicsWorld.cpp)
+  btRaycastVehicle.cpp
+  btWheelInfo.cpp
+C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletDynamics/ConstraintSolver/btContactConstraint.h(25,28): warning C4359: 'btContactConstraint': 맞춤 지정자가 실제 맞춤(128)보다 작아 무시됩니다. (소스 파일 컴파일 중 C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\external\bullet-2.81-rev2613\src\BulletDynamics\Vehicle\btRaycastVehicle.cpp)
+  BulletDynamics.vcxproj -> C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\external\bullet-2.81-rev2613\src\BulletDynamics\Debug\BulletDynamics.lib

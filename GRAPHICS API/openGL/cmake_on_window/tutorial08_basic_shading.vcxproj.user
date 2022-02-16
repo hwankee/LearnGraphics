@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LocalDebuggerEnvironment></LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommand>C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\Debug\tutorial08_basic_shading.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments></LocalDebuggerCommandArguments>
+    <LocalDebuggerWorkingDirectory>C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/tutorial08_basic_shading/</LocalDebuggerWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LocalDebuggerEnvironment></LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommand>C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\Release\tutorial08_basic_shading.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments></LocalDebuggerCommandArguments>
+    <LocalDebuggerWorkingDirectory>C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/tutorial08_basic_shading/</LocalDebuggerWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='MinSizeRel|x64'">
+    <LocalDebuggerEnvironment></LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommand>C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\MinSizeRel\tutorial08_basic_shading.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments></LocalDebuggerCommandArguments>
+    <LocalDebuggerWorkingDirectory>C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/tutorial08_basic_shading/</LocalDebuggerWorkingDirectory>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='RelWithDebInfo|x64'">
+    <LocalDebuggerEnvironment></LocalDebuggerEnvironment>
+    <DebuggerFlavor>WindowsLocalDebugger</DebuggerFlavor>
+    <LocalDebuggerCommand>C:\Users\math_15\Documents\GitHub\LearnGraphics\GRAPHICS API\openGL\cmake_on_window\RelWithDebInfo\tutorial08_basic_shading.exe</LocalDebuggerCommand>
+    <LocalDebuggerCommandArguments></LocalDebuggerCommandArguments>
+    <LocalDebuggerWorkingDirectory>C:/Users/math_15/Documents/GitHub/LearnGraphics/GRAPHICS API/openGL/tutorial08_basic_shading/</LocalDebuggerWorkingDirectory>
+  </PropertyGroup>
+
+</Project>
