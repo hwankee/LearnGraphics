@@ -27,5 +27,5 @@ TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_Meta
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/external/glfw-3.1.2/src/glfw_config.h.in))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/external/glfw-3.1.2/tests/CMakeLists.txt))
 
-/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/bin/CMakeFiles/cmake.check_cache: $(TARGETS)
-	/Applications/CMake.app/Contents/bin/cmake -H/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL -B/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/bin
+/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/cmake_on_mac/CMakeFiles/cmake.check_cache: $(TARGETS)
+	/Applications/CMake.app/Contents/bin/cmake -H/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL -B/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/cmake_on_mac

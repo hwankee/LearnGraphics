@@ -1,0 +1,99 @@
+Target dependency graph (27 targets)
+ZERO_CHECK in GLFW, no dependencies
+glfw in GLFW, depends on:
+ZERO_CHECK in GLFW (explicit)
+Wave in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+clipboard in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+defaults in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+events in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+Boing in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+Gears in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+Simple in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+Split View in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+fsaa in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+gamma in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+glfwinfo in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+iconify in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+joysticks in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+modes in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+peter in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+reopen in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+accuracy in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+sharing in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+tearing in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+threads in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+title in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+windows in GLFW, depends on:
+glfw in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+ALL_BUILD in GLFW, depends on:
+Wave in GLFW (explicit)
+clipboard in GLFW (explicit)
+defaults in GLFW (explicit)
+events in GLFW (explicit)
+glfw in GLFW (explicit)
+Boing in GLFW (explicit)
+Gears in GLFW (explicit)
+Simple in GLFW (explicit)
+Split View in GLFW (explicit)
+fsaa in GLFW (explicit)
+gamma in GLFW (explicit)
+glfwinfo in GLFW (explicit)
+iconify in GLFW (explicit)
+joysticks in GLFW (explicit)
+modes in GLFW (explicit)
+peter in GLFW (explicit)
+reopen in GLFW (explicit)
+accuracy in GLFW (explicit)
+sharing in GLFW (explicit)
+tearing in GLFW (explicit)
+threads in GLFW (explicit)
+title in GLFW (explicit)
+windows in GLFW (explicit)
+ZERO_CHECK in GLFW (explicit)
+install in GLFW, depends on:
+ALL_BUILD in GLFW (explicit)
+uninstall in GLFW, depends on:
+ZERO_CHECK in GLFW (explicit)

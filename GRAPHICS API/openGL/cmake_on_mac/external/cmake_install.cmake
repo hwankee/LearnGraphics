@@ -37,17 +37,17 @@ if(NOT DEFINED CMAKE_OBJDUMP)
   set(CMAKE_OBJDUMP "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/objdump")
 endif()
 
-set(CMAKE_BINARY_DIR "/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/bin")
+set(CMAKE_BINARY_DIR "/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/cmake_on_mac")
 
 if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
-  include("/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/bin/external/glfw-3.1.2/cmake_install.cmake")
-  include("/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/bin/external/assimp-3.0.1270/contrib/zlib/cmake_install.cmake")
-  include("/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/bin/external/assimp-3.0.1270/code/cmake_install.cmake")
-  include("/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/bin/external/bullet-2.81-rev2613/src/BulletSoftBody/cmake_install.cmake")
-  include("/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/bin/external/bullet-2.81-rev2613/src/BulletCollision/cmake_install.cmake")
-  include("/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/bin/external/bullet-2.81-rev2613/src/BulletDynamics/cmake_install.cmake")
-  include("/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/bin/external/bullet-2.81-rev2613/src/LinearMath/cmake_install.cmake")
+  include("/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/cmake_on_mac/external/glfw-3.1.2/cmake_install.cmake")
+  include("/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/cmake_on_mac/external/assimp-3.0.1270/contrib/zlib/cmake_install.cmake")
+  include("/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/cmake_on_mac/external/assimp-3.0.1270/code/cmake_install.cmake")
+  include("/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/cmake_on_mac/external/bullet-2.81-rev2613/src/BulletSoftBody/cmake_install.cmake")
+  include("/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/cmake_on_mac/external/bullet-2.81-rev2613/src/BulletCollision/cmake_install.cmake")
+  include("/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/cmake_on_mac/external/bullet-2.81-rev2613/src/BulletDynamics/cmake_install.cmake")
+  include("/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/openGL/cmake_on_mac/external/bullet-2.81-rev2613/src/LinearMath/cmake_install.cmake")
 
 endif()
 

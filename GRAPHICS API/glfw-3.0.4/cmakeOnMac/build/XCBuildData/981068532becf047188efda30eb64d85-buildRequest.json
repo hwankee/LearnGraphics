@@ -1,0 +1,136 @@
+{
+  "_buildCommand2" : {
+    "command" : "prepareForIndexing",
+    "enableIndexBuildArena" : false,
+    "targets" : null
+  },
+  "buildCommand" : "build",
+  "configuredTargets" : [
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d287e6ad50b2a311f219b2bac3f7195e5"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d88519d3b7b9e28e6fdcd70c030f539a2"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0dfdc538a8d6ee3c17e9cf67dfb55923de"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d545b1e578a6e8b96942cb1d31c97caba"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0df193b41240b50c9ac690f43a210ea0b7"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0dbfad2221c3471489f9ea1ac986923cc0"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d649800f93cd6d9d9dd3ee1ef3304510f"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0dba4b10defd57f92bdf568019c9fd7668"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0df5ae60b33c6978cb36c09932f3c1ceeb"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d47340d9db4ce5bc20d533a68785119e7"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d0e6781ff27f06e76badd85283f1e2262"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d6e85935ae0c100447417738198967e4d"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d6f732cb6d574398d4ea8aced02055e2f"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d88f3afd4f9dd77a2b825545491107721"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d2d3c3da289b70b6606e90a3db1ebb2c6"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d0fc567b721b091732a474ff9a6dabcac"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d9f1743de3e4e51ec61ffb82f4a249b30"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d78403cfc008fe2367ef24d48a202d363"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d04efdca5d859be23f383765c4ec38ac4"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d3fa4a34e4fa94798f2143b2bdbced661"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d954d908cfe60cafcac46a117a1c65d01"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0da9b7dce5d8417d747b592b44c9308b4b"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0dd9afc2038af083171f98277ecaf421e4"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d5bcd1d39dc5313f44cd0c51db88ac137"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d430cb9e9db74387fa9e681fa7b7eabb4"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d02669bb49e5bbedc51270c85ee241ed0"
+    },
+    {
+      "guid" : "5628dd971d0af5914fe446e928c58e0d8ae9036c85d72a7b199b7b262b1274e2"
+    }
+  ],
+  "containerPath" : "/Users/BrightLand/Learn_MetalAPI/GRAPHICS API/glfw-3.0.4/cmakeOnMac/GLFW.xcodeproj",
+  "continueBuildingAfterErrors" : true,
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx12.1",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "",
+      "buildProductsPath" : "",
+      "derivedDataPath" : "/Users/BrightLand/Library/Developer/Xcode/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/BrightLand/Library/Developer/Xcode/DerivedData/GLFW-feipeknaqvzjfygprdqtviisaasl/Index/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/BrightLand/Library/Developer/Xcode/DerivedData/GLFW-feipeknaqvzjfygprdqtviisaasl/Index/PrecompiledHeaders",
+      "pchPath" : ""
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO"
+        }
+      }
+    }
+  },
+  "qos" : "default",
+  "schemeCommand" : "launch",
+  "schemeCommand2" : "launch",
+  "shouldCollectMetrics" : false,
+  "showNonLoggedProgress" : true,
+  "useDryRun" : true,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

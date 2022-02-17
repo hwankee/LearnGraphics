@@ -42,9 +42,9 @@ TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Applications/CMake.app/Cont
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Applications/CMake.app/Contents/share/cmake-3.22/Modules/Platform/UnixPaths.cmake))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Applications/CMake.app/Contents/share/cmake-3.22/Modules/WriteBasicConfigVersionFile.cmake))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/CMakeLists.txt))
-TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/bin/CMakeFiles/3.22.2/CMakeCCompiler.cmake))
-TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/bin/CMakeFiles/3.22.2/CMakeCXXCompiler.cmake))
-TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/bin/CMakeFiles/3.22.2/CMakeSystem.cmake))
+TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/cmake_on_mac/CMakeFiles/3.22.2/CMakeCCompiler.cmake))
+TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/cmake_on_mac/CMakeFiles/3.22.2/CMakeCXXCompiler.cmake))
+TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/cmake_on_mac/CMakeFiles/3.22.2/CMakeSystem.cmake))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/external/CMakeLists.txt))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/external/assimp-3.0.1270/code/CMakeLists.txt))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/external/assimp-3.0.1270/contrib/zlib/CMakeLists.txt))
@@ -67,5 +67,5 @@ TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_Meta
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/external/rpavlik-cmake-modules-fe2273/MSVCMultipleProcessCompile.cmake))
 TARGETS += $(subst $(space),$(spaceplus),$(wildcard /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/external/rpavlik-cmake-modules-fe2273/launcher-templates/targetlauncher.sh.in))
 
-/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/bin/CMakeFiles/cmake.check_cache: $(TARGETS)
-	/Applications/CMake.app/Contents/bin/cmake -H/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL -B/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/bin
+/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/cmake_on_mac/CMakeFiles/cmake.check_cache: $(TARGETS)
+	/Applications/CMake.app/Contents/bin/cmake -H/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL -B/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/cmake_on_mac

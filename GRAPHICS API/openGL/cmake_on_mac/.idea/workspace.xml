@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8b7be6f3-0fe0-4575-a0a9-c567e84c2377" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/../cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeCache.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeCache.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/TargetDirectories.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/TargetDirectories.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_BulletPhysics-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_BulletPhysics-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_BulletPhysics-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_BulletPhysics-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_BulletPhysics-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_BulletPhysics-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_BulletPhysics-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_BulletPhysics-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_custom-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_custom-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_custom-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_custom-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_custom-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_custom-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_custom-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_custom-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_slow_easy-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_slow_easy-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_slow_easy-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_slow_easy-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_slow_easy-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_slow_easy-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_slow_easy-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-misc05_picking_slow_easy-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-playground-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-playground-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-playground-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-playground-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-playground-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-playground-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-playground-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-playground-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial01_first_window-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial01_first_window-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial01_first_window-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial01_first_window-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial01_first_window-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial01_first_window-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial01_first_window-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial01_first_window-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial02_red_triangle-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial02_red_triangle-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial02_red_triangle-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial02_red_triangle-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial02_red_triangle-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial02_red_triangle-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial02_red_triangle-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial02_red_triangle-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial03_matrices-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial03_matrices-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial03_matrices-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial03_matrices-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial03_matrices-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial03_matrices-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial03_matrices-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial03_matrices-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial04_colored_cube-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial04_colored_cube-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial04_colored_cube-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial04_colored_cube-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial04_colored_cube-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial04_colored_cube-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial04_colored_cube-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial04_colored_cube-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial05_textured_cube-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial05_textured_cube-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial05_textured_cube-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial05_textured_cube-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial05_textured_cube-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial05_textured_cube-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial05_textured_cube-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial05_textured_cube-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial06_keyboard_and_mouse-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial06_keyboard_and_mouse-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial06_keyboard_and_mouse-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial06_keyboard_and_mouse-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial06_keyboard_and_mouse-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial06_keyboard_and_mouse-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial06_keyboard_and_mouse-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial06_keyboard_and_mouse-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial07_model_loading-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial07_model_loading-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial07_model_loading-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial07_model_loading-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial07_model_loading-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial07_model_loading-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial07_model_loading-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial07_model_loading-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial08_basic_shading-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial08_basic_shading-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial08_basic_shading-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial08_basic_shading-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial08_basic_shading-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial08_basic_shading-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial08_basic_shading-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial08_basic_shading-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_AssImp-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_AssImp-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_AssImp-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_AssImp-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_AssImp-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_AssImp-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_AssImp-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_AssImp-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_several_objects-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_several_objects-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_several_objects-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_several_objects-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_several_objects-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_several_objects-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_several_objects-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_several_objects-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_vbo_indexing-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_vbo_indexing-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_vbo_indexing-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_vbo_indexing-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_vbo_indexing-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_vbo_indexing-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_vbo_indexing-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial09_vbo_indexing-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial10_transparency-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial10_transparency-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial10_transparency-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial10_transparency-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial10_transparency-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial10_transparency-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial10_transparency-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial10_transparency-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial11_2d_fonts-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial11_2d_fonts-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial11_2d_fonts-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial11_2d_fonts-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial11_2d_fonts-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial11_2d_fonts-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial11_2d_fonts-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial11_2d_fonts-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial12_extensions-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial12_extensions-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial12_extensions-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial12_extensions-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial12_extensions-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial12_extensions-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial12_extensions-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial12_extensions-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial13_normal_mapping-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial13_normal_mapping-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial13_normal_mapping-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial13_normal_mapping-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial13_normal_mapping-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial13_normal_mapping-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial13_normal_mapping-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial13_normal_mapping-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial14_render_to_texture-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial14_render_to_texture-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial14_render_to_texture-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial14_render_to_texture-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial14_render_to_texture-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial14_render_to_texture-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial14_render_to_texture-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial14_render_to_texture-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial15_lightmaps-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial15_lightmaps-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial15_lightmaps-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial15_lightmaps-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial15_lightmaps-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial15_lightmaps-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial15_lightmaps-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial15_lightmaps-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps_simple-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps_simple-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps_simple-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps_simple-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps_simple-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps_simple-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps_simple-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial16_shadowmaps_simple-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial17_rotations-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial17_rotations-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial17_rotations-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial17_rotations-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial17_rotations-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial17_rotations-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial17_rotations-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial17_rotations-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_billboards-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_billboards-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_billboards-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_billboards-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_billboards-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_billboards-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_billboards-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_billboards-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_particles-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_particles-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_particles-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_particles-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_particles-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_particles-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_particles-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeFiles/launch-tutorial18_particles-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeScripts/ReRunCMake.make" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeScripts/ReRunCMake.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorials.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorials.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorials.xcodeproj/project.xcworkspace/xcuserdata/hwangi.xcuserdatad/UserInterfaceState.xcuserstate" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorials.xcodeproj/project.xcworkspace/xcuserdata/hwangi.xcuserdatad/UserInterfaceState.xcuserstate" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tutorials.xcodeproj/xcuserdata/hwangi.xcuserdatad/xcschemes/xcschememanagement.plist" beforeDir="false" afterPath="$PROJECT_DIR$/Tutorials.xcodeproj/xcuserdata/hwangi.xcuserdatad/xcschemes/xcschememanagement.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/XCBuildData/build.db" beforeDir="false" afterPath="$PROJECT_DIR$/build/XCBuildData/build.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/LoadOGL.mm" beforeDir="false" afterPath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/LoadOGL.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/LoadOGLCore.mm" beforeDir="false" afterPath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/LoadOGLCore.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwBar.mm" beforeDir="false" afterPath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwBar.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwColors.mm" beforeDir="false" afterPath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwColors.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwEventGLFW.m" beforeDir="false" afterPath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwEventGLFW.m" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwFonts.mm" beforeDir="false" afterPath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwFonts.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwMgr.mm" beforeDir="false" afterPath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwMgr.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwOpenGL.mm" beforeDir="false" afterPath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwOpenGL.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwOpenGLCore.mm" beforeDir="false" afterPath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwOpenGLCore.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwPrecomp.mm" beforeDir="false" afterPath="$PROJECT_DIR$/external/AntTweakBar-ObjectiveC/TwPrecomp.mm" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/Tutorials.build/Debug/GLEW_1130.build/Objects-normal/x86_64/GLEW_1130.LinkFileList" beforeDir="false" afterPath="$PROJECT_DIR$/external/Tutorials.build/Debug/GLEW_1130.build/Objects-normal/x86_64/GLEW_1130.LinkFileList" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/Tutorials.build/Debug/GLEW_1130.build/Objects-normal/x86_64/GLEW_1130_libtool_dependency_info.dat" beforeDir="false" afterPath="$PROJECT_DIR$/external/Tutorials.build/Debug/GLEW_1130.build/Objects-normal/x86_64/GLEW_1130_libtool_dependency_info.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/assimp-3.0.1270/code/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/external/assimp-3.0.1270/code/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/assimp-3.0.1270/contrib/zlib/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/external/assimp-3.0.1270/contrib/zlib/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/bullet-2.81-rev2613/src/BulletCollision/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/external/bullet-2.81-rev2613/src/BulletCollision/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/bullet-2.81-rev2613/src/BulletDynamics/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/external/bullet-2.81-rev2613/src/BulletDynamics/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/bullet-2.81-rev2613/src/BulletSoftBody/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/external/bullet-2.81-rev2613/src/BulletSoftBody/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/bullet-2.81-rev2613/src/LinearMath/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/external/bullet-2.81-rev2613/src/LinearMath/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/external/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/glfw-3.1.2/CMakeScripts/ReRunCMake.make" beforeDir="false" afterPath="$PROJECT_DIR$/external/glfw-3.1.2/CMakeScripts/ReRunCMake.make" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/glfw-3.1.2/GLFW.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/external/glfw-3.1.2/GLFW.xcodeproj/project.pbxproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/glfw-3.1.2/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/external/glfw-3.1.2/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/glfw-3.1.2/cmake_uninstall.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/external/glfw-3.1.2/cmake_uninstall.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/glfw-3.1.2/docs/Doxyfile" beforeDir="false" afterPath="$PROJECT_DIR$/external/glfw-3.1.2/docs/Doxyfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/glfw-3.1.2/examples/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/external/glfw-3.1.2/examples/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/glfw-3.1.2/src/Tutorials.build/Debug/glfw.build/Objects-normal/x86_64/glfw3.LinkFileList" beforeDir="false" afterPath="$PROJECT_DIR$/external/glfw-3.1.2/src/Tutorials.build/Debug/glfw.build/Objects-normal/x86_64/glfw3.LinkFileList" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/glfw-3.1.2/src/Tutorials.build/Debug/glfw.build/Objects-normal/x86_64/glfw3_libtool_dependency_info.dat" beforeDir="false" afterPath="$PROJECT_DIR$/external/glfw-3.1.2/src/Tutorials.build/Debug/glfw.build/Objects-normal/x86_64/glfw3_libtool_dependency_info.dat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/glfw-3.1.2/src/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/external/glfw-3.1.2/src/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/external/glfw-3.1.2/tests/cmake_install.cmake" beforeDir="false" afterPath="$PROJECT_DIR$/external/glfw-3.1.2/tests/cmake_install.cmake" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-misc05_picking_BulletPhysics-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-misc05_picking_BulletPhysics-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-misc05_picking_BulletPhysics-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-misc05_picking_BulletPhysics-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-misc05_picking_BulletPhysics-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-misc05_picking_BulletPhysics-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-misc05_picking_BulletPhysics-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-misc05_picking_BulletPhysics-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-misc05_picking_custom-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-misc05_picking_custom-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-misc05_picking_custom-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-misc05_picking_custom-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-misc05_picking_custom-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-misc05_picking_custom-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-misc05_picking_custom-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-misc05_picking_custom-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-misc05_picking_slow_easy-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-misc05_picking_slow_easy-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-misc05_picking_slow_easy-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-misc05_picking_slow_easy-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-misc05_picking_slow_easy-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-misc05_picking_slow_easy-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-misc05_picking_slow_easy-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-misc05_picking_slow_easy-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-playground-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-playground-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-playground-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-playground-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-playground-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-playground-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-playground-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-playground-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial01_first_window-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial01_first_window-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial01_first_window-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial01_first_window-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial01_first_window-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial01_first_window-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial01_first_window-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial01_first_window-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial02_red_triangle-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial02_red_triangle-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial02_red_triangle-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial02_red_triangle-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial02_red_triangle-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial02_red_triangle-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial02_red_triangle-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial02_red_triangle-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial03_matrices-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial03_matrices-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial03_matrices-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial03_matrices-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial03_matrices-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial03_matrices-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial03_matrices-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial03_matrices-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial04_colored_cube-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial04_colored_cube-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial04_colored_cube-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial04_colored_cube-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial04_colored_cube-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial04_colored_cube-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial04_colored_cube-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial04_colored_cube-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial05_textured_cube-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial05_textured_cube-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial05_textured_cube-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial05_textured_cube-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial05_textured_cube-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial05_textured_cube-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial05_textured_cube-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial05_textured_cube-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial06_keyboard_and_mouse-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial06_keyboard_and_mouse-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial06_keyboard_and_mouse-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial06_keyboard_and_mouse-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial06_keyboard_and_mouse-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial06_keyboard_and_mouse-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial06_keyboard_and_mouse-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial06_keyboard_and_mouse-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial07_model_loading-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial07_model_loading-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial07_model_loading-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial07_model_loading-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial07_model_loading-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial07_model_loading-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial07_model_loading-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial07_model_loading-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial08_basic_shading-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial08_basic_shading-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial08_basic_shading-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial08_basic_shading-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial08_basic_shading-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial08_basic_shading-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial08_basic_shading-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial08_basic_shading-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial09_AssImp-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial09_AssImp-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial09_AssImp-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial09_AssImp-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial09_AssImp-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial09_AssImp-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial09_AssImp-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial09_AssImp-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial09_several_objects-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial09_several_objects-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial09_several_objects-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial09_several_objects-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial09_several_objects-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial09_several_objects-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial09_several_objects-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial09_several_objects-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial09_vbo_indexing-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial09_vbo_indexing-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial09_vbo_indexing-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial09_vbo_indexing-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial09_vbo_indexing-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial09_vbo_indexing-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial09_vbo_indexing-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial09_vbo_indexing-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial10_transparency-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial10_transparency-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial10_transparency-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial10_transparency-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial10_transparency-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial10_transparency-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial10_transparency-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial10_transparency-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial11_2d_fonts-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial11_2d_fonts-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial11_2d_fonts-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial11_2d_fonts-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial11_2d_fonts-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial11_2d_fonts-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial11_2d_fonts-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial11_2d_fonts-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial12_extensions-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial12_extensions-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial12_extensions-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial12_extensions-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial12_extensions-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial12_extensions-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial12_extensions-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial12_extensions-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial13_normal_mapping-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial13_normal_mapping-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial13_normal_mapping-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial13_normal_mapping-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial13_normal_mapping-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial13_normal_mapping-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial13_normal_mapping-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial13_normal_mapping-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial14_render_to_texture-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial14_render_to_texture-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial14_render_to_texture-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial14_render_to_texture-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial14_render_to_texture-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial14_render_to_texture-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial14_render_to_texture-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial14_render_to_texture-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial15_lightmaps-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial15_lightmaps-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial15_lightmaps-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial15_lightmaps-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial15_lightmaps-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial15_lightmaps-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial15_lightmaps-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial15_lightmaps-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial16_shadowmaps-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial16_shadowmaps-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial16_shadowmaps-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial16_shadowmaps-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial16_shadowmaps-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial16_shadowmaps-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial16_shadowmaps-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial16_shadowmaps-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial16_shadowmaps_simple-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial16_shadowmaps_simple-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial16_shadowmaps_simple-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial16_shadowmaps_simple-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial16_shadowmaps_simple-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial16_shadowmaps_simple-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial16_shadowmaps_simple-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial16_shadowmaps_simple-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial17_rotations-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial17_rotations-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial17_rotations-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial17_rotations-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial17_rotations-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial17_rotations-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial17_rotations-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial17_rotations-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial18_billboards-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial18_billboards-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial18_billboards-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial18_billboards-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial18_billboards-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial18_billboards-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial18_billboards-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial18_billboards-Release.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial18_particles-Debug.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial18_particles-Debug.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial18_particles-MinSizeRel.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial18_particles-MinSizeRel.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial18_particles-RelWithDebInfo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial18_particles-RelWithDebInfo.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/launch-tutorial18_particles-Release.sh" beforeDir="false" afterPath="$PROJECT_DIR$/launch-tutorial18_particles-Release.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="macos_macos_x86_64" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="AppCode" />
+    <option name="majorVersion" value="2021" />
+    <option name="minorVersion" value="3.1" />
+  </component>
+  <component name="ProjectId" id="25EhLdymtyvdYydxdet7NY9XpMA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cidr.known.project.marker" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8b7be6f3-0fe0-4575-a0a9-c567e84c2377" name="Changes" comment="" />
+      <created>1645098103803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1645098103803</updated>
+      <workItem from="1645098105155" duration="44000" />
+    </task>
+    <servers />
+  </component>
+</project>

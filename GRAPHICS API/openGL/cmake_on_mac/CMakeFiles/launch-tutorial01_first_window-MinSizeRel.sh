@@ -8,10 +8,10 @@ if test "x$1" = "x--debugger"; then
 	if test "x" = "xYES"; then
 		echo "r  " > $bindir/gdbscript
 		echo "bt" >> $bindir/gdbscript
-		GDB_COMMAND-NOTFOUND -batch -command=$bindir/gdbscript  /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/bin/MinSizeRel/tutorial01_first_window 
+		GDB_COMMAND-NOTFOUND -batch -command=$bindir/gdbscript  /Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/cmake_on_mac/MinSizeRel/tutorial01_first_window 
 	else
-		"/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/bin/MinSizeRel/tutorial01_first_window"  
+		"/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/cmake_on_mac/MinSizeRel/tutorial01_first_window"  
 	fi
 else
-	"/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/bin/MinSizeRel/tutorial01_first_window"  
+	"/Users/BrightLand/Learn_MetalAPI/GRAPHICS\ API/openGL/cmake_on_mac/MinSizeRel/tutorial01_first_window"  
 fi
