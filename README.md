@@ -1,7 +1,7 @@
 # 그래픽스 배움터 (번역)   
 ***   
 ## 3D 그래픽스 프로그래밍
-원본 링크: http://www.opengl-tutorial.org/kr/beginners-tutorials/
+원본 링크: http://www.learnopengl.com
 
 ## Vulkan 튜토리얼   
 원본 링크: https://vulkan-tutorial.com
