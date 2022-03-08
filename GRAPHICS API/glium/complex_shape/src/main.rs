@@ -13,16 +13,10 @@ fn main() {
     let cb = glutin::ContextBuilder::new().with_depth_buffer(24);
     let display = glium::Display::new(wb, cb, &event_loop).unwrap();
 
-    // 그냥.. 직관적으로 이대로 받아오면 된다.
     let positions = glium::VertexBuffer::new(&display, &teapot::VERTICES).unwrap();
     let normals = glium::VertexBuffer::new(&display, &teapot::NORMALS).unwrap();
-
-    //
     let indices = glium::IndexBuffer::new(&display, glium::index::PrimitiveType::TrianglesList,
                                           &teapot::INDICES).unwrap();
-
-    // position은 vec2에서 vec3로 변경되었다.
-    // version 140 -> 150
 
     let vertex_shader_src = r#"
         #version 150
@@ -40,9 +34,8 @@ fn main() {
         }
     "#;
 
-    // 외적 계산
     let fragment_shader_src = r#"
-        #version 140
+        #version 150
 
         in vec3 v_normal;
         out vec4 color;
@@ -87,10 +80,9 @@ fn main() {
             [0.01, 0.0, 0.0, 0.0],
             [0.0, 0.01, 0.0, 0.0],
             [0.0, 0.0, 0.01, 0.0],
-            [0.0, 0.0, 0.5, 1.0f32]
+            [0.0, 0.0, 0.0, 1.0f32]
         ];
 
-        // the direction of the light
         let light = [-1.0, 0.4, 0.9f32];
 
         let params = glium::DrawParameters {
@@ -103,8 +95,7 @@ fn main() {
         };
 
         target.draw((&positions, &normals), &indices, &program,
-                    &uniform! { matrix: matrix, u_light: light },
-                    &params).unwrap();
+                    &uniform! { matrix: matrix, u_light: light }, &params).unwrap();
         target.finish().unwrap();
     });
 }
